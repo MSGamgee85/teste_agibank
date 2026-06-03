@@ -1,0 +1,1021 @@
+id_solicitacao,data_solicitacao,cpf_cliente,produto,valor_solicitado,status,canal_entrada,cidade,analista_responsavel
+1,2025-01-18,82919005427,Emprestimo,16658.0,Aprovado,Web,Recife,Carlos
+2,2025-01-12,57532219711,Cartao,7094.0,Aprovado,Web,Rio de Janeiro,Carlos
+3,2025/02/25,41885063984,Emprestimo,75561.0,Pendente,App,Porto Alegre,Julia
+4,14/02/2025,16068880053,Cartao,13896.0,Aprovado,Web,Fortaleza,Lucas
+5,25/01/2025,75199612656,Cartao,15978.0,Negado,App,Porto Alegre,Lucas
+6,2025/02/04,84918962842,Financiamento,34958.0,Negado,Agencia,Campinas,Carlos
+7,28/01/2025,67719736043,Cartao,9173.0,Aprovado,Web,Sao Paulo,Lucas
+8,2025/02/08,10894651859,Financiamento,,Negado,App,Sao Paulo,Lucas
+9,2025-01-07,93500133515,Cartao,59802.0,Aprovado,Agencia,Recife,Lucas
+10,2025-02-16,30828262046,Financiamento,25331.0,Pendente,App,Goiania,Ana
+11,26/01/2025,88636820464,Financiamento,71217.0,Aprovado,App,Campinas,Marcos
+12,06/01/2025,43562058480,Cartao,,Negado,Agencia,Sao Paulo,Carlos
+13,2025-01-03,24000258095,Financiamento,1950.0,Aprovado,App,Fortaleza,Fernanda
+14,2025-01-04,16093015464,Cartao,,Pendente,Agencia,Campinas,Fernanda
+15,06/02/2025,25794931008,Financiamento,105497.0,Aprovado,App,Curitiba,Ana
+16,2025/02/03,75064154844,Cartao,12070.0,Negado,Web,Goiania,Fernanda
+17,2025/01/12,70046254920,Financiamento,,Pendente,App,Fortaleza,Julia
+18,2025/02/08,45027883594,Emprestimo,19020.0,Aprovado,Agencia,Porto Alegre,Fernanda
+19,2025/01/26,77203403567,Financiamento,42707.0,Aprovado,Web,Recife,Marcos
+20,2025-01-19,98816607799,Financiamento,20603.0,Pendente,Agencia,Salvador,Julia
+21,2025/01/02,97935293006,Cartao,76105.0,Pendente,Web,Porto Alegre,Julia
+22,2025-02-25,87129192962,Emprestimo,,Negado,Agencia,Recife,Lucas
+23,2025-02-15,40146137314,Cartao,,Pendente,App,Sao Paulo,Carlos
+24,30/01/2025,46180238375,Cartao,,Negado,Agencia,Fortaleza,Fernanda
+25,2025-02-19,54440266550,Emprestimo,16905.0,Negado,Agencia,Porto Alegre,Lucas
+26,2025-02-06,76206609731,Cartao,,Pendente,Web,Salvador,Carlos
+27,2025-01-22,41214499846,Financiamento,8087.0,Aprovado,Agencia,Rio de Janeiro,Marcos
+28,2025/02/16,52578918840,Financiamento,15778.0,Negado,App,Belo Horizonte,Marcos
+29,23/01/2025,71787343220,Financiamento,,Pendente,Agencia,Goiania,Lucas
+30,2025-02-01,91185614879,Cartao,18487.0,Negado,App,Fortaleza,Julia
+31,2025-01-20,42805365079,Cartao,,Aprovado,Agencia,Recife,Ana
+32,2025-02-08,78798736065,Financiamento,72472.0,Aprovado,Web,Goiania,Lucas
+33,06/01/2025,98234394418,Financiamento,,Pendente,Agencia,Salvador,Fernanda
+34,2025-01-30,58213845165,Financiamento,111944.0,Aprovado,App,Goiania,Fernanda
+35,17/01/2025,24949466351,Financiamento,119761.0,Aprovado,Web,Sao Paulo,Julia
+36,2025-02-15,28052448717,Emprestimo,,Negado,Web,Belo Horizonte,Marcos
+37,08/02/2025,82529607951,Cartao,,Aprovado,App,Goiania,Julia
+38,2025/01/11,90455702243,Cartao,,Pendente,App,Fortaleza,Lucas
+39,28/02/2025,32498878047,Financiamento,,Negado,App,Rio de Janeiro,Marcos
+40,03/02/2025,82975663110,Emprestimo,14661.0,Negado,App,Sao Paulo,Carlos
+41,2025-01-05,64281433770,Emprestimo,57553.0,Negado,Agencia,Salvador,Julia
+42,30/01/2025,40424352061,Emprestimo,,Aprovado,Agencia,Fortaleza,Ana
+43,2025-02-27,40724237059,Financiamento,104888.0,Pendente,App,Porto Alegre,Lucas
+44,26/02/2025,69664207392,Cartao,,Pendente,Web,Recife,Lucas
+45,25/01/2025,48319321733,Financiamento,104994.0,Negado,Web,Belo Horizonte,Fernanda
+46,2025/01/29,18873751856,Emprestimo,,Aprovado,Web,Rio de Janeiro,Fernanda
+47,2025/01/15,74858635234,Financiamento,19928.0,Aprovado,Web,Rio de Janeiro,Marcos
+48,21/01/2025,68640757866,Emprestimo,,Aprovado,Agencia,Rio de Janeiro,Ana
+49,13/01/2025,42916550683,Cartao,59569.0,Pendente,App,Fortaleza,Carlos
+50,2025-02-01,84553963001,Emprestimo,,Pendente,Web,Porto Alegre,Julia
+51,2025-02-04,44780174651,Emprestimo,14725.0,Aprovado,App,Curitiba,Ana
+52,23/02/2025,33940752132,Cartao,70717.0,Negado,Web,Curitiba,Julia
+53,2025-01-27,84310652265,Cartao,,Aprovado,Agencia,Sao Paulo,Fernanda
+54,2025/02/25,40626140314,Cartao,,Negado,App,Goiania,Fernanda
+55,2025/01/03,55202683788,Financiamento,5855.0,Aprovado,App,Recife,Ana
+56,2025-02-05,15786239172,Financiamento,29022.0,Pendente,Agencia,Belo Horizonte,Ana
+57,2025/01/18,45394807900,Cartao,,Aprovado,Web,Belo Horizonte,Carlos
+58,2025-02-11,67595528768,Emprestimo,,Negado,Web,Belo Horizonte,Marcos
+59,22/01/2025,98035787425,Emprestimo,4969.0,Negado,Web,Sao Paulo,Lucas
+60,2025/01/04,27643926104,Financiamento,18232.0,Aprovado,Web,Campinas,Lucas
+61,2025/01/23,62517260506,Cartao,56545.0,Pendente,App,Sao Paulo,Ana
+62,2025-01-14,58429635477,Financiamento,1665.0,Negado,Agencia,Rio de Janeiro,Marcos
+63,2025-01-13,89888052237,Cartao,86338.0,Pendente,App,Salvador,Ana
+64,20/01/2025,38188060976,Emprestimo,,Aprovado,App,Belo Horizonte,Carlos
+65,26/01/2025,56955520568,Financiamento,4974.0,Aprovado,App,Goiania,Carlos
+66,2025-01-02,76722836545,Financiamento,9437.0,Pendente,Web,Sao Paulo,Marcos
+67,2025-02-05,60532363588,Emprestimo,25539.0,Negado,App,Curitiba,Ana
+68,05/01/2025,55218601826,Emprestimo,69041.0,Aprovado,Agencia,Recife,Ana
+69,2025/01/18,17738379288,Cartao,38924.0,Pendente,Agencia,Fortaleza,Lucas
+70,2025-01-21,62541013351,Cartao,87887.0,Negado,App,Belo Horizonte,Carlos
+71,30/01/2025,66853057236,Financiamento,9577.0,Negado,App,Sao Paulo,Marcos
+72,02/01/2025,45934518916,Cartao,6479.0,Aprovado,Web,Sao Paulo,Marcos
+73,2025-01-03,36589436893,Financiamento,16788.0,Aprovado,App,Belo Horizonte,Marcos
+74,2025-01-19,79001632470,Emprestimo,61575.0,Negado,App,Campinas,Carlos
+75,2025-02-27,25977304169,Cartao,104305.0,Pendente,Agencia,Campinas,Ana
+76,2025-02-21,39826555134,Financiamento,11171.0,Negado,Web,Recife,Ana
+77,2025/01/28,30525587811,Emprestimo,,Pendente,Agencia,Sao Paulo,Lucas
+78,23/02/2025,13605183888,Cartao,11081.0,Aprovado,Agencia,Belo Horizonte,Marcos
+79,2025-02-24,94464281184,Financiamento,,Pendente,App,Salvador,Fernanda
+80,2025/01/19,20612130331,Financiamento,,Negado,Agencia,Recife,Carlos
+81,05/02/2025,84120646170,Emprestimo,,Pendente,Web,Porto Alegre,Ana
+82,10/01/2025,73419846293,Financiamento,9126.0,Aprovado,Agencia,Recife,Ana
+83,03/01/2025,33202424649,Emprestimo,4492.0,Negado,App,Recife,Julia
+84,02/01/2025,25277426652,Financiamento,,Aprovado,App,Fortaleza,Lucas
+85,05/01/2025,52977081225,Cartao,6967.0,Aprovado,Web,Sao Paulo,Ana
+86,2025/01/23,45819616690,Financiamento,24346.0,Negado,App,Goiania,Carlos
+87,2025-01-04,12639678538,Emprestimo,,Pendente,Web,Campinas,Ana
+88,2025-01-23,98405622017,Financiamento,50371.0,Negado,Web,Curitiba,Marcos
+89,2025/02/16,92564626414,Cartao,94421.0,Aprovado,Agencia,Rio de Janeiro,Julia
+90,07/01/2025,10821617394,Cartao,58856.0,Negado,Agencia,Rio de Janeiro,Fernanda
+91,2025-01-18,73579066362,Emprestimo,57304.0,Pendente,Web,Sao Paulo,Carlos
+92,23/01/2025,64247882766,Emprestimo,74943.0,Aprovado,Agencia,Recife,Marcos
+93,2025/01/01,89298272443,Emprestimo,52027.0,Pendente,Web,Rio de Janeiro,Fernanda
+94,08/01/2025,95960927140,Financiamento,19676.0,Negado,Web,Sao Paulo,Carlos
+95,2025/01/12,13798600562,Cartao,11205.0,Pendente,Web,Fortaleza,Fernanda
+96,2025-03-02,41217326876,Financiamento,6862.0,Aprovado,Web,Goiania,Marcos
+97,2025/01/20,57712577915,Cartao,,Negado,Web,Fortaleza,Fernanda
+98,06/01/2025,27019870857,Financiamento,,Aprovado,App,Goiania,Marcos
+99,2025/03/01,74562916318,Financiamento,,Negado,Web,Campinas,Carlos
+100,2025/01/03,90453568236,Financiamento,1196.0,Pendente,Web,Campinas,Marcos
+101,2025/02/26,15981777859,Emprestimo,37788.0,Aprovado,Web,Recife,Lucas
+102,24/01/2025,79830555396,Financiamento,99770.0,Pendente,Web,Goiania,Julia
+103,2025/02/21,83944302108,Cartao,85142.0,Aprovado,App,Goiania,Carlos
+104,02/01/2025,52945722338,Cartao,,Negado,Agencia,Salvador,Carlos
+105,2025-02-23,79832309543,Emprestimo,,Aprovado,Agencia,Belo Horizonte,Marcos
+106,2025-01-11,11093386095,Financiamento,5575.0,Negado,Web,Recife,Marcos
+107,2025/01/14,30269435066,Emprestimo,113112.0,Aprovado,App,Sao Paulo,Fernanda
+108,2025-01-15,59653672462,Cartao,,Pendente,Agencia,Rio de Janeiro,Marcos
+109,2025/02/19,47659901444,Emprestimo,7417.0,Pendente,Web,Fortaleza,Marcos
+110,2025-01-02,47695505221,Financiamento,,Negado,Agencia,Goiania,Carlos
+111,2025-01-06,65539892741,Emprestimo,60887.0,Aprovado,Agencia,Sao Paulo,Ana
+112,10/01/2025,82520794993,Emprestimo,,Negado,Agencia,Porto Alegre,Lucas
+113,2025-02-20,97475662881,Cartao,116794.0,Negado,App,Curitiba,Fernanda
+114,2025-01-28,39875081137,Cartao,,Aprovado,Web,Fortaleza,Ana
+115,2025/02/28,85439092932,Emprestimo,,Pendente,App,Salvador,Fernanda
+116,2025/02/04,97391126890,Emprestimo,,Negado,Agencia,Curitiba,Julia
+117,2025-02-05,77322371604,Financiamento,31976.0,Aprovado,Web,Recife,Ana
+118,2025/01/15,74409857702,Financiamento,23289.0,Pendente,Agencia,Goiania,Ana
+119,10/02/2025,69137129049,Cartao,19030.0,Negado,Web,Goiania,Carlos
+120,2025-01-16,13238467092,Financiamento,,Aprovado,Web,Curitiba,Marcos
+121,2025/01/05,60924654337,Financiamento,,Pendente,Agencia,Campinas,Lucas
+122,2025-02-19,67269109834,Cartao,17732.0,Negado,Web,Rio de Janeiro,Fernanda
+123,2025/02/04,76131958760,Emprestimo,85465.0,Pendente,App,Rio de Janeiro,Fernanda
+124,2025-02-10,39674761743,Cartao,40365.0,Pendente,App,Rio de Janeiro,Fernanda
+125,2025-01-23,50215259647,Cartao,18871.0,Aprovado,App,Rio de Janeiro,Carlos
+126,2025/02/14,13115445832,Emprestimo,,Negado,App,Rio de Janeiro,Julia
+127,2025-02-09,30438171745,Financiamento,16505.0,Pendente,Web,Sao Paulo,Fernanda
+128,2025/01/25,62041262175,Cartao,,Negado,App,Rio de Janeiro,Fernanda
+129,2025/01/22,60678019141,Emprestimo,,Pendente,Agencia,Campinas,Marcos
+130,2025-01-24,90860119548,Cartao,,Pendente,Web,Campinas,Ana
+131,23/01/2025,79658427114,Cartao,,Aprovado,App,Belo Horizonte,Julia
+132,2025-02-22,93894755052,Cartao,,Aprovado,Web,Rio de Janeiro,Carlos
+133,2025/01/13,62827907552,Cartao,5119.0,Pendente,App,Sao Paulo,Marcos
+134,20/02/2025,49483125804,Emprestimo,,Aprovado,App,Recife,Marcos
+135,2025/02/08,66243310107,Cartao,49513.0,Aprovado,Web,Porto Alegre,Marcos
+136,2025/02/18,37180382387,Emprestimo,38783.0,Aprovado,Agencia,Porto Alegre,Julia
+137,2025-02-15,82461189927,Emprestimo,,Negado,App,Belo Horizonte,Marcos
+138,23/01/2025,42390560261,Financiamento,,Aprovado,Web,Goiania,Fernanda
+139,2025-01-25,53481729261,Emprestimo,15882.0,Negado,Web,Salvador,Marcos
+140,14/02/2025,21104478999,Cartao,608.0,Pendente,Agencia,Campinas,Fernanda
+141,2025/01/06,43544934503,Emprestimo,13407.0,Pendente,Web,Curitiba,Lucas
+142,19/02/2025,13560331364,Emprestimo,,Negado,App,Goiania,Fernanda
+143,2025/01/07,38702912978,Emprestimo,,Aprovado,Web,Salvador,Julia
+144,10/01/2025,58539590488,Cartao,37883.0,Aprovado,App,Belo Horizonte,Marcos
+145,2025-01-31,32237171359,Financiamento,12530.0,Pendente,App,Porto Alegre,Lucas
+146,2025-02-05,95149971079,Financiamento,1307.0,Aprovado,Agencia,Sao Paulo,Marcos
+147,2025-01-04,65447118010,Cartao,,Negado,Agencia,Campinas,Lucas
+148,2025-02-17,92041818107,Emprestimo,8088.0,Negado,Web,Campinas,Marcos
+149,2025/01/02,80617979210,Emprestimo,113367.0,Pendente,Web,Belo Horizonte,Ana
+150,2025-02-14,22124350747,Cartao,,Aprovado,Agencia,Campinas,Fernanda
+151,2025/02/27,54841442753,Financiamento,14247.0,Pendente,Agencia,Rio de Janeiro,Fernanda
+152,2025/02/10,88272798231,Financiamento,,Negado,Web,Salvador,Ana
+153,2025-02-18,26481731454,Cartao,55661.0,Aprovado,Agencia,Sao Paulo,Ana
+154,2025-02-16,16435833269,Financiamento,119515.0,Pendente,Agencia,Fortaleza,Carlos
+155,2025-01-06,35768871221,Emprestimo,98002.0,Negado,Agencia,Recife,Marcos
+156,2025/01/27,11615798854,Cartao,24556.0,Negado,Web,Campinas,Julia
+157,25/02/2025,48812123091,Cartao,870.0,Aprovado,Agencia,Sao Paulo,Fernanda
+158,2025/01/08,28210380872,Cartao,6817.0,Aprovado,App,Sao Paulo,Marcos
+159,15/02/2025,90518419276,Cartao,22100.0,Pendente,Web,Campinas,Julia
+160,28/02/2025,28878860989,Emprestimo,15642.0,Negado,App,Goiania,Ana
+161,2025/01/25,45412296074,Cartao,,Aprovado,App,Goiania,Fernanda
+162,26/01/2025,34072024851,Financiamento,74941.0,Aprovado,Web,Recife,Carlos
+163,2025-01-30,80016893913,Financiamento,29089.0,Pendente,Agencia,Campinas,Julia
+164,24/02/2025,92370086856,Cartao,19300.0,Aprovado,App,Porto Alegre,Carlos
+165,2025-02-10,80550753391,Emprestimo,4932.0,Aprovado,Web,Fortaleza,Marcos
+166,2025/02/13,77735134424,Cartao,,Aprovado,Agencia,Porto Alegre,Carlos
+167,2025/02/13,39143971728,Financiamento,17074.0,Negado,Web,Porto Alegre,Fernanda
+168,2025/02/14,16445170782,Financiamento,,Negado,Agencia,Goiania,Fernanda
+169,07/02/2025,45461429900,Emprestimo,106832.0,Negado,App,Belo Horizonte,Fernanda
+170,01/02/2025,96119070217,Emprestimo,,Negado,Web,Campinas,Julia
+171,2025-02-24,29373886060,Cartao,18001.0,Aprovado,Agencia,Goiania,Marcos
+172,2025/02/08,76965688372,Cartao,22397.0,Aprovado,Agencia,Fortaleza,Marcos
+173,02/01/2025,96864808181,Financiamento,96087.0,Negado,App,Campinas,Fernanda
+174,25/02/2025,60288351853,Emprestimo,24311.0,Aprovado,Agencia,Goiania,Ana
+175,2025/02/11,75257526654,Financiamento,,Negado,App,Belo Horizonte,Marcos
+176,2025-02-09,92484522636,Financiamento,39941.0,Aprovado,Web,Goiania,Julia
+177,23/01/2025,75613752003,Financiamento,80347.0,Pendente,Agencia,Fortaleza,Julia
+178,2025-02-09,57787949727,Financiamento,,Aprovado,Web,Rio de Janeiro,Lucas
+179,2025/01/22,18740205403,Cartao,47914.0,Negado,Agencia,Curitiba,Lucas
+180,2025-02-13,30389473693,Emprestimo,86141.0,Negado,Agencia,Belo Horizonte,Fernanda
+181,2025-02-17,14584309378,Emprestimo,,Pendente,Agencia,Campinas,Fernanda
+182,2025-02-21,35226591756,Cartao,14264.0,Negado,Web,Porto Alegre,Julia
+183,2025-01-08,13960203890,Financiamento,,Negado,Agencia,Recife,Fernanda
+184,24/02/2025,56182926883,Emprestimo,74143.0,Negado,App,Sao Paulo,Julia
+185,2025-02-09,91297360428,Financiamento,,Pendente,Agencia,Campinas,Julia
+186,12/02/2025,51308945697,Emprestimo,,Aprovado,Web,Fortaleza,Julia
+187,2025/02/28,48695431129,Cartao,10445.0,Aprovado,Web,Recife,Ana
+188,2025/02/19,71019073485,Financiamento,500.0,Aprovado,App,Salvador,Lucas
+189,2025-01-03,70299084493,Emprestimo,70218.0,Pendente,App,Curitiba,Julia
+190,11/02/2025,97747778840,Financiamento,6951.0,Negado,Agencia,Goiania,Marcos
+191,2025/01/02,51651367658,Financiamento,110828.0,Aprovado,Agencia,Recife,Fernanda
+192,2025/02/09,28188260986,Emprestimo,,Pendente,Agencia,Sao Paulo,Fernanda
+193,27/01/2025,18312902317,Emprestimo,11725.0,Aprovado,Web,Rio de Janeiro,Lucas
+194,2025-01-15,88409716069,Financiamento,100728.0,Aprovado,App,Rio de Janeiro,Julia
+195,2025-01-03,42010640661,Emprestimo,,Pendente,Web,Fortaleza,Ana
+196,02/03/2025,80907603511,Cartao,,Pendente,Web,Rio de Janeiro,Lucas
+197,2025-01-08,62070392196,Cartao,,Pendente,Web,Campinas,Lucas
+198,24/02/2025,22342378787,Emprestimo,,Negado,App,Salvador,Ana
+199,23/02/2025,40019174180,Financiamento,15591.0,Aprovado,Web,Campinas,Marcos
+200,2025/01/09,73932939360,Cartao,7146.0,Negado,App,Salvador,Lucas
+201,2025-02-07,75437199886,Emprestimo,3432.0,Pendente,Web,Rio de Janeiro,Fernanda
+202,2025-02-02,58598778896,Cartao,,Negado,Agencia,Recife,Ana
+203,2025/01/14,47907816304,Financiamento,5425.0,Pendente,App,Rio de Janeiro,Julia
+204,2025/01/18,44135176426,Cartao,15089.0,Negado,App,Salvador,Carlos
+205,22/02/2025,57469528170,Financiamento,55787.0,Negado,App,Recife,Fernanda
+206,2025/01/11,21473518456,Emprestimo,118853.0,Pendente,Agencia,Fortaleza,Julia
+207,01/01/2025,81137278825,Emprestimo,,Negado,Web,Fortaleza,Julia
+208,2025-02-13,20943645502,Cartao,,Negado,Agencia,Fortaleza,Lucas
+209,10/02/2025,93291591104,Emprestimo,92036.0,Pendente,App,Porto Alegre,Carlos
+210,2025-01-11,83806352826,Cartao,14689.0,Aprovado,Web,Goiania,Julia
+211,27/01/2025,66885067450,Financiamento,89049.0,Aprovado,Web,Campinas,Fernanda
+212,2025-01-19,31740096401,Emprestimo,54775.0,Negado,Web,Salvador,Lucas
+213,2025-01-31,47523896971,Cartao,37420.0,Aprovado,App,Campinas,Julia
+214,25/02/2025,61409333996,Emprestimo,97165.0,Pendente,Agencia,Salvador,Fernanda
+215,2025/01/05,49674093840,Cartao,,Negado,Web,Belo Horizonte,Julia
+216,2025/01/18,54838255501,Emprestimo,11417.0,Pendente,App,Rio de Janeiro,Marcos
+217,2025/02/08,67467425844,Emprestimo,29519.0,Negado,App,Curitiba,Marcos
+218,2025/02/21,48068214481,Emprestimo,3335.0,Aprovado,Agencia,Salvador,Ana
+219,26/01/2025,42769485170,Cartao,107471.0,Pendente,Web,Curitiba,Ana
+220,03/01/2025,91219499488,Cartao,,Negado,App,Curitiba,Fernanda
+221,2025/02/18,15430425090,Financiamento,6236.0,Aprovado,Web,Goiania,Fernanda
+222,2025-02-27,38517523223,Cartao,16038.0,Pendente,App,Porto Alegre,Marcos
+223,2025-01-09,39952938293,Cartao,66537.0,Negado,Agencia,Sao Paulo,Julia
+224,2025/02/22,86219534267,Emprestimo,17850.0,Pendente,Web,Fortaleza,Lucas
+225,29/01/2025,37931855108,Cartao,95534.0,Pendente,App,Fortaleza,Ana
+226,2025-02-09,92464719397,Emprestimo,29087.0,Pendente,Agencia,Salvador,Lucas
+227,01/01/2025,88527644758,Cartao,1113.0,Aprovado,Agencia,Goiania,Carlos
+228,28/02/2025,17122550570,Emprestimo,,Negado,App,Curitiba,Carlos
+229,2025/01/08,93428703965,Financiamento,26454.0,Negado,Agencia,Curitiba,Julia
+230,07/02/2025,59914083776,Emprestimo,1719.0,Negado,App,Recife,Marcos
+231,2025/01/19,62372663883,Cartao,,Negado,App,Rio de Janeiro,Fernanda
+232,2025/01/05,89474507468,Cartao,25914.0,Negado,Agencia,Goiania,Carlos
+233,2025/02/17,32121874314,Cartao,,Pendente,Web,Recife,Carlos
+234,2025/01/11,63045541194,Cartao,53195.0,Aprovado,Web,Belo Horizonte,Julia
+235,2025/01/27,53591457517,Cartao,,Pendente,Web,Belo Horizonte,Fernanda
+236,2025/01/28,84949051860,Cartao,,Aprovado,App,Salvador,Marcos
+237,2025/01/05,15305059854,Financiamento,,Aprovado,App,Salvador,Marcos
+238,2025-01-19,56218342276,Cartao,7606.0,Negado,Agencia,Campinas,Marcos
+239,2025-02-09,78465136534,Financiamento,,Negado,Web,Recife,Marcos
+240,2025/01/04,27975811934,Emprestimo,4647.0,Pendente,Agencia,Belo Horizonte,Carlos
+241,2025-02-10,42791021009,Financiamento,53593.0,Pendente,Agencia,Curitiba,Julia
+242,2025-03-01,47097326192,Emprestimo,,Aprovado,Agencia,Belo Horizonte,Fernanda
+243,2025/01/27,96623500563,Cartao,27717.0,Negado,Web,Curitiba,Carlos
+244,2025/02/05,91851442282,Emprestimo,3616.0,Negado,App,Recife,Marcos
+245,11/02/2025,87728461558,Emprestimo,93680.0,Aprovado,Agencia,Salvador,Ana
+246,2025/02/06,92452921953,Emprestimo,16866.0,Aprovado,Web,Belo Horizonte,Ana
+247,24/02/2025,51247554379,Cartao,22347.0,Negado,Agencia,Porto Alegre,Marcos
+248,2025/02/14,93783057449,Emprestimo,,Pendente,Agencia,Belo Horizonte,Marcos
+249,2025-02-28,10629087322,Financiamento,13525.0,Aprovado,Agencia,Goiania,Carlos
+250,05/01/2025,43409135096,Financiamento,17163.0,Aprovado,Web,Sao Paulo,Julia
+251,08/02/2025,68131368294,Cartao,,Aprovado,Web,Curitiba,Marcos
+252,24/01/2025,63230374252,Emprestimo,40259.0,Pendente,Web,Sao Paulo,Marcos
+253,2025-01-11,16068939594,Financiamento,,Negado,Web,Porto Alegre,Lucas
+254,01/01/2025,51753293253,Cartao,72585.0,Pendente,Web,Fortaleza,Carlos
+255,04/02/2025,53288310479,Cartao,,Pendente,App,Goiania,Marcos
+256,2025/01/16,88513489271,Financiamento,75009.0,Negado,Web,Rio de Janeiro,Lucas
+257,09/02/2025,35327098647,Cartao,,Aprovado,App,Recife,Fernanda
+258,2025/02/20,60292232726,Financiamento,65554.0,Pendente,App,Rio de Janeiro,Ana
+259,2025/01/26,48291753824,Financiamento,105764.0,Aprovado,App,Campinas,Marcos
+260,2025-02-07,17721334873,Cartao,11273.0,Pendente,App,Salvador,Marcos
+261,06/01/2025,39626158537,Cartao,,Aprovado,App,Fortaleza,Lucas
+262,2025/01/09,11823574771,Cartao,,Negado,App,Recife,Ana
+263,2025-01-29,95537400886,Cartao,104828.0,Negado,Web,Salvador,Julia
+264,2025/01/07,50899725233,Emprestimo,61195.0,Pendente,Web,Sao Paulo,Lucas
+265,02/01/2025,95066729371,Financiamento,,Negado,App,Goiania,Carlos
+266,2025/03/02,56500576366,Cartao,,Negado,Agencia,Belo Horizonte,Fernanda
+267,06/02/2025,82301692324,Emprestimo,,Aprovado,Agencia,Curitiba,Carlos
+268,2025-01-17,45216633031,Financiamento,,Aprovado,Web,Curitiba,Julia
+269,20/01/2025,43693781039,Emprestimo,,Aprovado,Web,Salvador,Ana
+270,01/03/2025,16929887025,Financiamento,91703.0,Aprovado,Agencia,Porto Alegre,Lucas
+271,2025/01/22,76027908618,Emprestimo,39653.0,Aprovado,Web,Rio de Janeiro,Julia
+272,2025/02/23,52588718712,Cartao,6924.0,Aprovado,Web,Goiania,Marcos
+273,2025/02/03,85585042844,Emprestimo,46554.0,Negado,App,Goiania,Marcos
+274,30/01/2025,35758394314,Emprestimo,760.0,Negado,App,Campinas,Lucas
+275,05/02/2025,96501588189,Cartao,19107.0,Negado,App,Belo Horizonte,Lucas
+276,2025/02/02,11584658343,Cartao,98318.0,Negado,App,Sao Paulo,Lucas
+277,28/02/2025,70201157965,Financiamento,31367.0,Aprovado,Web,Sao Paulo,Fernanda
+278,13/01/2025,13949185551,Financiamento,9662.0,Negado,Agencia,Sao Paulo,Fernanda
+279,2025-02-01,63317397445,Cartao,,Pendente,App,Belo Horizonte,Carlos
+280,2025-01-03,33948621908,Financiamento,28208.0,Negado,Web,Campinas,Marcos
+281,2025-01-30,23365021073,Emprestimo,44911.0,Aprovado,Web,Rio de Janeiro,Carlos
+282,2025/01/08,44327036985,Cartao,109540.0,Pendente,Web,Fortaleza,Julia
+283,2025/02/12,50908490987,Cartao,57283.0,Aprovado,Web,Recife,Fernanda
+284,2025/01/04,69086323746,Cartao,28136.0,Pendente,Agencia,Porto Alegre,Lucas
+285,2025/01/28,84737982576,Cartao,10036.0,Pendente,App,Campinas,Marcos
+286,2025/01/03,62659059907,Financiamento,,Pendente,Agencia,Goiania,Julia
+287,22/01/2025,19892942902,Cartao,64055.0,Pendente,App,Sao Paulo,Carlos
+288,28/02/2025,98021888775,Cartao,77189.0,Aprovado,Agencia,Sao Paulo,Fernanda
+289,17/01/2025,74901920244,Cartao,19021.0,Negado,Web,Fortaleza,Ana
+290,21/01/2025,67351120137,Financiamento,116121.0,Pendente,Agencia,Porto Alegre,Carlos
+291,30/01/2025,79021389511,Emprestimo,,Aprovado,App,Porto Alegre,Julia
+292,11/01/2025,36698023362,Cartao,2308.0,Negado,App,Belo Horizonte,Lucas
+293,2025/01/26,96651595073,Cartao,,Aprovado,Agencia,Salvador,Julia
+294,07/01/2025,40412361537,Financiamento,76472.0,Pendente,Web,Recife,Lucas
+295,2025-02-21,94356255995,Emprestimo,71865.0,Negado,App,Curitiba,Lucas
+296,2025-01-09,69919737175,Financiamento,57002.0,Pendente,App,Belo Horizonte,Ana
+297,2025/03/02,73822652040,Financiamento,74811.0,Negado,App,Fortaleza,Lucas
+298,2025/02/13,19127845473,Cartao,17941.0,Aprovado,App,Fortaleza,Carlos
+299,2025/01/20,47423076467,Emprestimo,19680.0,Negado,App,Sao Paulo,Julia
+300,2025/02/16,97468159252,Financiamento,10019.0,Aprovado,Web,Goiania,Julia
+301,2025-02-16,64735170235,Financiamento,,Negado,App,Curitiba,Ana
+302,2025-02-21,87639323280,Emprestimo,12012.0,Aprovado,Web,Recife,Marcos
+303,2025-01-01,33160425049,Emprestimo,76308.0,Negado,Web,Goiania,Marcos
+304,2025/01/16,34770206787,Financiamento,,Negado,Agencia,Goiania,Ana
+305,07/02/2025,70458280109,Emprestimo,69058.0,Aprovado,Web,Campinas,Marcos
+306,14/02/2025,41381395381,Emprestimo,,Pendente,Web,Campinas,Ana
+307,2025/02/08,43128549064,Emprestimo,107624.0,Pendente,App,Campinas,Carlos
+308,2025-02-19,88326560670,Cartao,75151.0,Pendente,Web,Salvador,Carlos
+309,2025-01-14,30973067195,Financiamento,,Aprovado,Agencia,Salvador,Lucas
+310,2025-02-11,11998388898,Emprestimo,,Aprovado,Web,Campinas,Julia
+311,03/02/2025,18408209594,Financiamento,18291.0,Aprovado,Web,Goiania,Lucas
+312,2025/02/27,67369062606,Cartao,,Aprovado,Web,Goiania,Lucas
+313,2025-02-14,56713756262,Emprestimo,,Negado,Web,Belo Horizonte,Ana
+314,2025-02-05,77756542609,Cartao,,Negado,App,Rio de Janeiro,Julia
+315,2025/02/03,39203762330,Cartao,25717.0,Negado,Agencia,Campinas,Ana
+316,2025-01-25,19528159492,Financiamento,118085.0,Aprovado,Agencia,Recife,Ana
+317,2025-02-24,52890049565,Financiamento,18137.0,Pendente,App,Curitiba,Marcos
+318,2025/01/03,83768655445,Emprestimo,8365.0,Aprovado,App,Fortaleza,Fernanda
+319,11/01/2025,18973834151,Emprestimo,1803.0,Negado,App,Porto Alegre,Julia
+320,2025-01-02,15004300575,Emprestimo,101623.0,Pendente,App,Goiania,Ana
+321,23/01/2025,12821561410,Emprestimo,22275.0,Aprovado,App,Campinas,Fernanda
+322,25/02/2025,73200041552,Emprestimo,,Negado,Web,Curitiba,Fernanda
+323,2025-01-29,30529309680,Emprestimo,116770.0,Pendente,Web,Recife,Julia
+324,14/02/2025,42903695630,Emprestimo,,Pendente,Web,Rio de Janeiro,Carlos
+325,03/01/2025,25427190711,Emprestimo,,Pendente,Web,Curitiba,Fernanda
+326,2025/01/22,52370842995,Cartao,36099.0,Aprovado,Web,Salvador,Fernanda
+327,2025/01/21,93019973121,Cartao,,Aprovado,App,Curitiba,Fernanda
+328,2025-01-06,77234531931,Financiamento,,Negado,Web,Rio de Janeiro,Fernanda
+329,2025-01-31,25284677140,Financiamento,,Aprovado,Web,Salvador,Fernanda
+330,2025/02/25,29652873254,Emprestimo,109291.0,Negado,Web,Goiania,Marcos
+331,2025/01/07,64632365265,Financiamento,8826.0,Pendente,Agencia,Recife,Fernanda
+332,23/01/2025,28644937978,Cartao,16469.0,Pendente,Agencia,Belo Horizonte,Carlos
+333,2025/01/08,35553152623,Emprestimo,,Pendente,App,Sao Paulo,Julia
+334,2025-01-07,61437762837,Financiamento,,Aprovado,Web,Campinas,Carlos
+335,2025/02/07,52645725052,Financiamento,64507.0,Pendente,App,Curitiba,Lucas
+336,2025-02-28,27383944394,Financiamento,39385.0,Pendente,App,Recife,Fernanda
+337,2025/01/14,18692346569,Cartao,13984.0,Pendente,Web,Rio de Janeiro,Carlos
+338,2025-01-28,21034928909,Emprestimo,,Aprovado,App,Sao Paulo,Julia
+339,2025/02/19,79994323863,Financiamento,,Pendente,Agencia,Curitiba,Lucas
+340,2025/01/21,26807385653,Financiamento,14719.0,Pendente,Web,Porto Alegre,Lucas
+341,2025-01-15,81537792015,Cartao,63980.0,Negado,App,Recife,Fernanda
+342,16/01/2025,13112282349,Emprestimo,,Pendente,Agencia,Belo Horizonte,Fernanda
+343,2025-01-22,87248101654,Cartao,7100.0,Aprovado,Agencia,Rio de Janeiro,Fernanda
+344,15/01/2025,14011682044,Cartao,12945.0,Pendente,App,Goiania,Ana
+345,13/02/2025,49819760160,Cartao,102180.0,Aprovado,App,Goiania,Ana
+346,06/01/2025,77086894144,Cartao,14037.0,Negado,Web,Sao Paulo,Marcos
+347,2025/02/28,44623560879,Financiamento,18961.0,Negado,Web,Belo Horizonte,Marcos
+348,14/02/2025,10393741994,Financiamento,16252.0,Pendente,Agencia,Salvador,Fernanda
+349,2025/01/03,79176169561,Emprestimo,,Aprovado,Web,Recife,Marcos
+350,2025-02-23,19423420620,Financiamento,,Aprovado,App,Belo Horizonte,Julia
+351,2025-01-31,14544598546,Financiamento,,Negado,Agencia,Goiania,Fernanda
+352,2025-01-11,96552280217,Emprestimo,,Negado,App,Recife,Fernanda
+353,2025/01/28,12818839690,Financiamento,,Negado,Web,Fortaleza,Marcos
+354,06/02/2025,84073189296,Financiamento,,Negado,Web,Recife,Marcos
+355,2025/01/04,44561419654,Emprestimo,24943.0,Aprovado,App,Sao Paulo,Marcos
+356,2025/01/31,71522259999,Financiamento,66286.0,Aprovado,Web,Recife,Ana
+357,2025/02/23,45327655890,Financiamento,14747.0,Pendente,Agencia,Recife,Marcos
+358,16/01/2025,85870068822,Emprestimo,100583.0,Aprovado,App,Porto Alegre,Julia
+359,20/02/2025,86731126622,Emprestimo,6616.0,Aprovado,App,Campinas,Lucas
+360,2025-01-22,96477498010,Emprestimo,,Aprovado,Agencia,Salvador,Lucas
+361,2025/02/09,66344407166,Financiamento,56271.0,Pendente,App,Curitiba,Fernanda
+362,2025/02/17,39973905569,Emprestimo,64517.0,Aprovado,Web,Rio de Janeiro,Lucas
+363,2025-02-20,84226130119,Cartao,19485.0,Pendente,Web,Goiania,Lucas
+364,2025-02-26,25242829318,Cartao,1303.0,Aprovado,Web,Rio de Janeiro,Julia
+365,2025-02-13,18688652050,Financiamento,1191.0,Aprovado,Agencia,Fortaleza,Marcos
+366,07/01/2025,53598143504,Financiamento,,Pendente,Agencia,Porto Alegre,Fernanda
+367,2025-03-01,95030560247,Cartao,11576.0,Pendente,App,Campinas,Marcos
+368,2025/02/22,93723603471,Emprestimo,,Aprovado,Web,Fortaleza,Fernanda
+369,18/01/2025,48340988291,Financiamento,9218.0,Aprovado,App,Curitiba,Julia
+370,2025/02/26,76227886377,Cartao,114104.0,Aprovado,Agencia,Recife,Julia
+371,2025/01/26,27759344007,Emprestimo,2988.0,Aprovado,Agencia,Rio de Janeiro,Fernanda
+372,2025/01/19,60489537059,Cartao,,Negado,App,Sao Paulo,Carlos
+373,15/02/2025,35033887267,Cartao,81295.0,Aprovado,Web,Sao Paulo,Ana
+374,07/01/2025,20804240597,Emprestimo,109885.0,Negado,App,Salvador,Julia
+375,22/02/2025,40648279658,Financiamento,,Pendente,Web,Rio de Janeiro,Ana
+376,2025/02/01,64748076961,Cartao,,Aprovado,App,Salvador,Marcos
+377,2025-02-27,18553236564,Emprestimo,22509.0,Negado,Web,Porto Alegre,Ana
+378,2025-01-15,37805098158,Emprestimo,,Aprovado,App,Campinas,Julia
+379,13/01/2025,27548786041,Cartao,30533.0,Aprovado,Agencia,Porto Alegre,Ana
+380,11/02/2025,53280598670,Cartao,1305.0,Aprovado,Web,Sao Paulo,Carlos
+381,2025-01-12,92593357743,Cartao,19854.0,Aprovado,Agencia,Goiania,Ana
+382,2025-02-28,49369818071,Cartao,,Aprovado,Agencia,Campinas,Ana
+383,2025/02/10,95798833287,Emprestimo,,Pendente,Web,Curitiba,Julia
+384,2025-02-07,11839901433,Financiamento,5811.0,Aprovado,App,Curitiba,Marcos
+385,10/01/2025,50050439085,Financiamento,,Aprovado,Agencia,Porto Alegre,Carlos
+386,2025/01/03,93015481402,Emprestimo,5521.0,Pendente,Web,Goiania,Julia
+387,2025-02-18,54496189188,Cartao,81981.0,Aprovado,Agencia,Fortaleza,Julia
+388,23/02/2025,36198388168,Cartao,18233.0,Negado,Agencia,Recife,Carlos
+389,2025-02-15,98136411496,Cartao,113744.0,Aprovado,App,Rio de Janeiro,Fernanda
+390,12/01/2025,37155742171,Financiamento,111570.0,Negado,Web,Fortaleza,Ana
+391,2025-02-05,77203710828,Cartao,106317.0,Pendente,Web,Belo Horizonte,Marcos
+392,2025-02-13,62222298294,Financiamento,90330.0,Negado,App,Curitiba,Carlos
+393,2025/02/22,43750409383,Financiamento,75056.0,Negado,Web,Porto Alegre,Julia
+394,2025-02-14,57362857810,Emprestimo,105227.0,Pendente,App,Recife,Carlos
+395,2025-01-24,17333805399,Cartao,14377.0,Negado,Web,Salvador,Lucas
+396,2025-01-21,98624381073,Cartao,89046.0,Aprovado,Web,Goiania,Fernanda
+397,2025-03-01,96516792021,Financiamento,7810.0,Pendente,Agencia,Sao Paulo,Lucas
+398,2025-02-05,72724711187,Cartao,,Aprovado,Agencia,Porto Alegre,Ana
+399,2025-02-17,59091436921,Emprestimo,16793.0,Pendente,Agencia,Sao Paulo,Julia
+400,2025/01/06,60640035172,Cartao,50346.0,Negado,Web,Campinas,Ana
+401,2025/01/06,29361554877,Emprestimo,12318.0,Pendente,Agencia,Campinas,Ana
+402,2025-01-05,99354721459,Cartao,1846.0,Negado,Agencia,Fortaleza,Marcos
+403,25/01/2025,56494753670,Emprestimo,1696.0,Pendente,Web,Salvador,Fernanda
+404,2025-02-17,18978164330,Cartao,,Pendente,Web,Salvador,Julia
+405,14/01/2025,95316357334,Cartao,10089.0,Pendente,App,Sao Paulo,Julia
+406,2025/03/01,46808259001,Financiamento,32844.0,Aprovado,Agencia,Sao Paulo,Ana
+407,2025-02-23,52353767625,Cartao,11855.0,Negado,App,Recife,Marcos
+408,2025-01-29,41400284122,Cartao,,Aprovado,Agencia,Porto Alegre,Julia
+409,14/01/2025,31195164541,Financiamento,26217.0,Aprovado,Agencia,Campinas,Fernanda
+410,2025/02/02,11160883137,Emprestimo,3957.0,Aprovado,Web,Salvador,Lucas
+411,03/01/2025,97281587163,Emprestimo,,Pendente,Agencia,Salvador,Ana
+412,01/02/2025,94724532272,Cartao,35177.0,Pendente,App,Fortaleza,Marcos
+413,2025-02-14,50975338338,Emprestimo,10305.0,Aprovado,Web,Belo Horizonte,Marcos
+414,2025/02/15,49994826117,Emprestimo,11269.0,Negado,App,Goiania,Marcos
+415,02/02/2025,45352410125,Cartao,95147.0,Negado,Agencia,Fortaleza,Ana
+416,2025/02/26,15498665857,Cartao,,Pendente,App,Curitiba,Marcos
+417,2025-01-12,18363096900,Cartao,80416.0,Negado,Web,Salvador,Fernanda
+418,2025-01-08,60295033322,Cartao,26090.0,Negado,Web,Curitiba,Marcos
+419,12/02/2025,28666797688,Cartao,7157.0,Aprovado,App,Sao Paulo,Julia
+420,2025/01/26,69634052676,Emprestimo,,Pendente,Agencia,Belo Horizonte,Ana
+421,2025-01-07,64009880751,Cartao,,Negado,App,Recife,Ana
+422,2025/01/02,43541308436,Emprestimo,4036.0,Pendente,App,Curitiba,Ana
+423,2025/02/07,27667451163,Cartao,19617.0,Negado,App,Salvador,Julia
+424,2025/01/08,19451032197,Emprestimo,817.0,Negado,Web,Belo Horizonte,Julia
+425,2025/02/24,29864617446,Cartao,,Aprovado,Web,Recife,Marcos
+426,2025/01/10,66535487175,Cartao,12890.0,Aprovado,App,Sao Paulo,Fernanda
+427,28/01/2025,20032138840,Emprestimo,,Aprovado,Agencia,Goiania,Lucas
+428,2025-02-28,82623894683,Emprestimo,73179.0,Pendente,Web,Porto Alegre,Ana
+429,2025-02-14,38282764469,Financiamento,,Negado,Agencia,Rio de Janeiro,Julia
+430,2025/01/26,71491448240,Financiamento,5052.0,Pendente,App,Rio de Janeiro,Fernanda
+431,02/02/2025,85856735712,Emprestimo,12985.0,Negado,Agencia,Campinas,Lucas
+432,22/02/2025,94805441684,Cartao,84144.0,Aprovado,App,Sao Paulo,Marcos
+433,2025/01/02,90201086366,Emprestimo,,Aprovado,Web,Rio de Janeiro,Ana
+434,2025-02-18,87548365717,Cartao,,Negado,Agencia,Rio de Janeiro,Lucas
+435,12/02/2025,11512241637,Cartao,17003.0,Pendente,App,Goiania,Lucas
+436,2025/01/24,80988428209,Financiamento,4650.0,Pendente,App,Belo Horizonte,Marcos
+437,2025/03/01,97195520564,Emprestimo,10628.0,Aprovado,Agencia,Sao Paulo,Julia
+438,2025/01/16,49639345355,Emprestimo,,Negado,Agencia,Rio de Janeiro,Julia
+439,2025-01-11,21854375988,Emprestimo,93008.0,Aprovado,Web,Porto Alegre,Lucas
+440,2025/02/12,78086406832,Cartao,6230.0,Pendente,Agencia,Fortaleza,Julia
+441,2025/01/29,43074823580,Financiamento,37895.0,Pendente,App,Rio de Janeiro,Carlos
+442,2025-01-04,47162652015,Cartao,,Aprovado,App,Sao Paulo,Lucas
+443,2025-02-27,98668698228,Cartao,12911.0,Pendente,App,Sao Paulo,Fernanda
+444,01/01/2025,95253313421,Financiamento,,Pendente,App,Recife,Julia
+445,2025-01-15,43702308792,Cartao,99534.0,Pendente,Web,Campinas,Marcos
+446,12/02/2025,98402843968,Cartao,,Aprovado,App,Fortaleza,Marcos
+447,2025-01-12,70268593595,Cartao,78057.0,Negado,App,Salvador,Marcos
+448,28/02/2025,39888509390,Emprestimo,,Negado,Web,Belo Horizonte,Carlos
+449,23/01/2025,61179480952,Financiamento,,Negado,Agencia,Rio de Janeiro,Ana
+450,2025/02/13,80060456383,Financiamento,,Pendente,Web,Campinas,Lucas
+451,2025-02-04,71906252028,Financiamento,18681.0,Pendente,App,Sao Paulo,Ana
+452,2025/01/24,72812477352,Emprestimo,7087.0,Aprovado,App,Campinas,Ana
+453,2025-01-04,95191430002,Financiamento,82084.0,Aprovado,App,Recife,Lucas
+454,2025/03/02,43157916007,Cartao,84467.0,Aprovado,Agencia,Porto Alegre,Carlos
+455,2025/01/16,77817339539,Financiamento,,Aprovado,Web,Porto Alegre,Marcos
+456,2025/02/05,47893413833,Cartao,,Aprovado,Agencia,Recife,Lucas
+457,2025/01/22,58401533954,Financiamento,,Aprovado,App,Curitiba,Marcos
+458,05/01/2025,85595810739,Cartao,,Pendente,Agencia,Porto Alegre,Ana
+459,2025-02-27,55156399147,Financiamento,,Pendente,Web,Porto Alegre,Julia
+460,01/01/2025,28207987309,Financiamento,19665.0,Negado,Agencia,Rio de Janeiro,Fernanda
+461,2025/02/07,15805121470,Financiamento,,Negado,Web,Salvador,Fernanda
+462,2025-01-14,30531472725,Financiamento,,Pendente,Web,Belo Horizonte,Lucas
+463,2025-01-27,50457637951,Financiamento,,Negado,App,Recife,Marcos
+464,2025-02-12,94821564442,Emprestimo,,Aprovado,Agencia,Fortaleza,Ana
+465,2025/01/21,25903981470,Cartao,,Aprovado,App,Salvador,Fernanda
+466,2025/01/12,94435450667,Cartao,,Pendente,App,Salvador,Carlos
+467,19/02/2025,38074183151,Financiamento,,Aprovado,Agencia,Curitiba,Marcos
+468,2025-01-31,36367572682,Emprestimo,67886.0,Aprovado,Web,Salvador,Ana
+469,2025-02-19,20397853737,Emprestimo,44022.0,Negado,Web,Sao Paulo,Lucas
+470,11/02/2025,91461453037,Financiamento,119155.0,Aprovado,Agencia,Salvador,Marcos
+471,2025/02/05,47416664593,Financiamento,79328.0,Negado,App,Campinas,Fernanda
+472,2025-01-26,26573641885,Financiamento,32268.0,Negado,App,Belo Horizonte,Fernanda
+473,2025-01-28,46248272866,Cartao,18568.0,Pendente,App,Fortaleza,Carlos
+474,2025-02-16,46436528034,Emprestimo,62051.0,Aprovado,App,Sao Paulo,Ana
+475,2025/02/13,17988958055,Cartao,2830.0,Aprovado,Web,Recife,Carlos
+476,2025-02-03,74678221140,Emprestimo,8263.0,Negado,App,Porto Alegre,Lucas
+477,2025-02-12,83446206392,Emprestimo,46477.0,Pendente,Web,Curitiba,Lucas
+478,2025-02-08,63970040096,Emprestimo,61794.0,Aprovado,Agencia,Salvador,Marcos
+479,2025-02-28,25131434074,Cartao,,Aprovado,App,Salvador,Marcos
+480,2025-02-25,34198020052,Cartao,1442.0,Aprovado,Web,Curitiba,Lucas
+481,20/01/2025,74777495986,Cartao,14661.0,Aprovado,App,Rio de Janeiro,Julia
+482,2025-01-06,30831796950,Emprestimo,117521.0,Negado,Agencia,Curitiba,Marcos
+483,2025/01/17,37428177655,Cartao,,Aprovado,Agencia,Belo Horizonte,Marcos
+484,2025/02/17,77915002846,Emprestimo,,Negado,App,Recife,Julia
+485,2025/02/27,29495630152,Cartao,34562.0,Pendente,App,Porto Alegre,Marcos
+486,2025-02-22,56941920482,Cartao,114529.0,Negado,Agencia,Rio de Janeiro,Lucas
+487,2025-03-01,38600057358,Emprestimo,13700.0,Pendente,App,Recife,Fernanda
+488,2025-02-16,46964836571,Financiamento,92175.0,Pendente,Agencia,Salvador,Lucas
+489,2025-01-02,68371789503,Emprestimo,1713.0,Aprovado,App,Salvador,Ana
+490,27/02/2025,27837897681,Cartao,,Aprovado,Web,Belo Horizonte,Julia
+491,2025/03/01,97893170579,Emprestimo,12237.0,Aprovado,Agencia,Fortaleza,Fernanda
+492,07/02/2025,82729080123,Financiamento,33756.0,Pendente,App,Goiania,Marcos
+493,2025-02-27,51247112603,Emprestimo,,Aprovado,Web,Goiania,Marcos
+494,2025/02/03,29964570100,Emprestimo,3749.0,Negado,Agencia,Sao Paulo,Marcos
+495,2025-02-24,35669971360,Financiamento,,Pendente,Agencia,Porto Alegre,Marcos
+496,2025/02/12,24784318842,Cartao,85671.0,Pendente,App,Campinas,Julia
+497,2025/01/18,58416378924,Emprestimo,10772.0,Negado,Web,Recife,Ana
+498,13/01/2025,28869938635,Emprestimo,19225.0,Pendente,Agencia,Goiania,Fernanda
+499,16/02/2025,25748005828,Cartao,,Aprovado,Web,Belo Horizonte,Julia
+500,30/01/2025,86188225885,Financiamento,1026.0,Aprovado,App,Goiania,Marcos
+501,2025/02/14,30214143724,Emprestimo,,Aprovado,Agencia,Goiania,Carlos
+502,2025-01-24,82961086700,Financiamento,2961.0,Aprovado,App,Porto Alegre,Fernanda
+503,07/01/2025,22640977371,Emprestimo,7571.0,Aprovado,App,Sao Paulo,Julia
+504,05/02/2025,28614846126,Financiamento,5473.0,Pendente,App,Rio de Janeiro,Marcos
+505,2025/01/22,29065878753,Emprestimo,17298.0,Negado,Web,Recife,Marcos
+506,2025-02-20,20387821014,Emprestimo,5667.0,Negado,Agencia,Recife,Lucas
+507,2025-01-27,60842673778,Emprestimo,9046.0,Aprovado,Web,Belo Horizonte,Lucas
+508,2025/02/23,48077559276,Cartao,32197.0,Pendente,Web,Campinas,Carlos
+509,2025-02-04,46772724818,Financiamento,35866.0,Aprovado,App,Porto Alegre,Fernanda
+510,2025/03/01,38455902213,Emprestimo,6300.0,Aprovado,Web,Porto Alegre,Marcos
+511,2025-02-26,70495361739,Financiamento,66285.0,Aprovado,App,Goiania,Julia
+512,2025-01-20,81543290900,Emprestimo,,Pendente,App,Sao Paulo,Ana
+513,2025-01-15,39766148537,Cartao,54731.0,Negado,Agencia,Sao Paulo,Julia
+514,2025-02-05,74471818439,Financiamento,9143.0,Negado,Agencia,Rio de Janeiro,Ana
+515,2025/01/31,47028587102,Cartao,,Pendente,Web,Recife,Ana
+516,2025/01/20,34263002856,Emprestimo,2053.0,Aprovado,Web,Sao Paulo,Fernanda
+517,2025/01/09,14371699948,Financiamento,2785.0,Aprovado,App,Porto Alegre,Marcos
+518,2025/02/27,21650774945,Financiamento,,Pendente,App,Belo Horizonte,Marcos
+519,2025-01-31,63342891622,Emprestimo,,Pendente,Web,Recife,Ana
+520,2025/01/04,10931613533,Emprestimo,56390.0,Pendente,App,Porto Alegre,Ana
+521,02/03/2025,94071161589,Emprestimo,25918.0,Aprovado,Agencia,Campinas,Fernanda
+522,08/01/2025,70237083974,Cartao,13430.0,Negado,App,Curitiba,Lucas
+523,31/01/2025,64971657618,Emprestimo,,Pendente,Web,Recife,Carlos
+524,2025/02/14,38142733692,Emprestimo,21137.0,Pendente,Web,Goiania,Julia
+525,2025/02/05,21488107100,Emprestimo,94236.0,Aprovado,App,Fortaleza,Lucas
+526,2025-01-03,17179542553,Emprestimo,,Negado,Web,Rio de Janeiro,Ana
+527,2025/02/09,21490542654,Cartao,2566.0,Negado,App,Sao Paulo,Lucas
+528,2025-01-15,99848559710,Emprestimo,72846.0,Pendente,Web,Goiania,Julia
+529,2025-01-10,88207122510,Financiamento,5046.0,Aprovado,Web,Salvador,Julia
+530,2025/02/06,57164152706,Cartao,,Negado,App,Rio de Janeiro,Carlos
+531,2025/01/19,31036320938,Cartao,13867.0,Negado,App,Recife,Julia
+532,17/02/2025,46887775904,Cartao,61725.0,Pendente,Agencia,Sao Paulo,Carlos
+533,22/01/2025,97016505550,Cartao,3465.0,Pendente,App,Rio de Janeiro,Fernanda
+534,2025-02-05,40178996511,Cartao,2043.0,Pendente,Web,Salvador,Ana
+535,2025/01/05,25145477750,Emprestimo,61526.0,Pendente,App,Salvador,Carlos
+536,06/02/2025,33705377416,Financiamento,,Pendente,App,Curitiba,Fernanda
+537,2025/02/20,57168717050,Emprestimo,100164.0,Negado,Agencia,Porto Alegre,Lucas
+538,2025-01-29,21804203735,Emprestimo,,Aprovado,Agencia,Campinas,Fernanda
+539,2025/02/15,37949589058,Cartao,84665.0,Aprovado,Agencia,Curitiba,Fernanda
+540,2025/01/23,15901084510,Emprestimo,4345.0,Pendente,Agencia,Rio de Janeiro,Carlos
+541,2025-02-15,28211275275,Cartao,83564.0,Negado,App,Sao Paulo,Marcos
+542,2025-02-21,68135454351,Cartao,48007.0,Aprovado,Agencia,Belo Horizonte,Marcos
+543,19/02/2025,85129923402,Financiamento,,Pendente,Web,Recife,Lucas
+544,2025/02/07,63172782662,Financiamento,11738.0,Aprovado,App,Porto Alegre,Lucas
+545,03/02/2025,53401235290,Financiamento,,Aprovado,Web,Porto Alegre,Carlos
+546,02/01/2025,29012216519,Cartao,118096.0,Negado,App,Sao Paulo,Ana
+547,08/01/2025,92185908602,Cartao,92245.0,Aprovado,App,Goiania,Marcos
+548,08/02/2025,67587456574,Financiamento,,Negado,Agencia,Recife,Carlos
+549,02/01/2025,92649437348,Financiamento,59730.0,Negado,Web,Porto Alegre,Fernanda
+550,2025-01-16,90291007448,Financiamento,30288.0,Pendente,App,Salvador,Fernanda
+551,02/02/2025,92380386232,Cartao,10814.0,Pendente,Web,Belo Horizonte,Marcos
+552,2025-02-02,60496892386,Cartao,66163.0,Pendente,App,Fortaleza,Marcos
+553,15/01/2025,90775677994,Financiamento,,Pendente,Web,Curitiba,Carlos
+554,2025-02-07,11833491563,Financiamento,39401.0,Negado,Web,Campinas,Lucas
+555,2025-02-02,13120602525,Cartao,,Negado,App,Sao Paulo,Fernanda
+556,2025/03/02,37055348765,Emprestimo,90450.0,Negado,Web,Belo Horizonte,Julia
+557,24/02/2025,33567380624,Cartao,,Negado,Web,Porto Alegre,Marcos
+558,2025-01-09,92066582624,Emprestimo,,Negado,App,Porto Alegre,Ana
+559,2025-01-27,44759074796,Financiamento,31507.0,Negado,Agencia,Salvador,Carlos
+560,2025-02-10,12302269106,Emprestimo,2953.0,Aprovado,App,Recife,Lucas
+561,2025/01/15,51575012777,Emprestimo,,Pendente,Agencia,Recife,Julia
+562,28/01/2025,97685867550,Financiamento,70808.0,Aprovado,Agencia,Sao Paulo,Julia
+563,2025/01/31,52629624304,Financiamento,67935.0,Aprovado,Agencia,Rio de Janeiro,Carlos
+564,18/02/2025,91771540531,Cartao,5166.0,Aprovado,App,Goiania,Lucas
+565,2025/02/23,34592104776,Cartao,,Negado,Agencia,Recife,Fernanda
+566,2025/02/09,20028035439,Financiamento,13648.0,Aprovado,App,Goiania,Julia
+567,2025-02-10,33181393203,Financiamento,1573.0,Aprovado,Agencia,Sao Paulo,Marcos
+568,2025/01/16,84833213837,Financiamento,3846.0,Aprovado,App,Campinas,Marcos
+569,13/02/2025,68333825293,Financiamento,2031.0,Negado,App,Goiania,Marcos
+570,16/01/2025,33445703935,Financiamento,,Pendente,App,Fortaleza,Marcos
+571,2025/01/30,16919037104,Financiamento,16898.0,Aprovado,Agencia,Fortaleza,Julia
+572,2025/02/14,50033901882,Emprestimo,102982.0,Aprovado,App,Recife,Fernanda
+573,15/02/2025,58114353349,Emprestimo,47397.0,Negado,App,Curitiba,Fernanda
+574,2025-01-02,90352931830,Cartao,,Negado,App,Salvador,Ana
+575,2025-01-20,23160025117,Emprestimo,,Pendente,App,Recife,Carlos
+576,11/01/2025,50073397204,Financiamento,8093.0,Pendente,Agencia,Curitiba,Julia
+577,02/01/2025,11835904711,Emprestimo,9746.0,Negado,Agencia,Porto Alegre,Carlos
+578,2025-02-23,20839460239,Cartao,92589.0,Negado,Web,Porto Alegre,Marcos
+579,2025/02/19,38929230783,Financiamento,,Pendente,Agencia,Belo Horizonte,Julia
+580,2025/02/20,15028781100,Financiamento,,Negado,Web,Rio de Janeiro,Carlos
+581,2025/01/11,60850416247,Emprestimo,19702.0,Negado,Web,Curitiba,Fernanda
+582,2025-02-03,51597628433,Financiamento,10771.0,Pendente,Agencia,Recife,Julia
+583,2025/02/26,99699535329,Financiamento,96799.0,Pendente,App,Porto Alegre,Julia
+584,2025-02-05,47406359558,Cartao,15162.0,Aprovado,App,Recife,Ana
+585,12/01/2025,46708368709,Financiamento,,Aprovado,App,Sao Paulo,Ana
+586,2025-01-12,54194923137,Emprestimo,46907.0,Aprovado,Web,Recife,Carlos
+587,2025-02-06,16572369248,Emprestimo,,Negado,Web,Sao Paulo,Lucas
+588,24/02/2025,84028991285,Cartao,,Negado,Web,Campinas,Marcos
+589,18/01/2025,92155515139,Cartao,48421.0,Negado,Web,Porto Alegre,Lucas
+590,20/02/2025,50907750596,Financiamento,69839.0,Negado,App,Sao Paulo,Julia
+591,2025/02/10,72743991974,Financiamento,78591.0,Negado,Web,Campinas,Fernanda
+592,2025/01/10,28953405269,Emprestimo,,Pendente,Agencia,Recife,Marcos
+593,11/02/2025,96335700497,Financiamento,77561.0,Negado,Web,Campinas,Lucas
+594,14/01/2025,81022914243,Financiamento,,Negado,App,Rio de Janeiro,Lucas
+595,2025/01/14,69176436042,Emprestimo,,Pendente,App,Curitiba,Fernanda
+596,2025-01-24,57136565521,Financiamento,,Pendente,App,Belo Horizonte,Julia
+597,2025-01-19,57768783014,Cartao,19094.0,Negado,Web,Goiania,Fernanda
+598,2025/01/10,49105418173,Financiamento,1631.0,Pendente,Agencia,Curitiba,Ana
+599,04/01/2025,88991042958,Emprestimo,90059.0,Pendente,App,Rio de Janeiro,Julia
+600,2025/02/14,15913555355,Emprestimo,10995.0,Negado,Agencia,Goiania,Fernanda
+601,2025/02/04,98986703952,Financiamento,25955.0,Aprovado,App,Sao Paulo,Julia
+602,2025/02/27,21326637126,Cartao,,Pendente,Web,Belo Horizonte,Marcos
+603,2025/02/21,88322319305,Financiamento,4823.0,Pendente,Web,Belo Horizonte,Julia
+604,2025/01/27,32892021059,Emprestimo,4252.0,Negado,Agencia,Campinas,Carlos
+605,2025-01-29,68148287917,Financiamento,,Negado,App,Fortaleza,Fernanda
+606,2025/02/08,74464080211,Emprestimo,15203.0,Negado,App,Recife,Lucas
+607,2025/02/11,51668099993,Financiamento,11018.0,Negado,Agencia,Porto Alegre,Ana
+608,14/01/2025,76529899981,Financiamento,18374.0,Negado,Web,Porto Alegre,Ana
+609,2025/02/10,58604208022,Cartao,5210.0,Pendente,App,Fortaleza,Carlos
+610,2025-03-01,10103446951,Financiamento,14605.0,Pendente,App,Porto Alegre,Julia
+611,2025-02-18,88755534214,Emprestimo,74909.0,Aprovado,Web,Rio de Janeiro,Carlos
+612,2025-02-17,17096227397,Emprestimo,57696.0,Pendente,Web,Fortaleza,Lucas
+613,01/02/2025,96071988481,Emprestimo,8730.0,Pendente,Agencia,Campinas,Marcos
+614,2025/02/20,75371118143,Emprestimo,2876.0,Pendente,Agencia,Curitiba,Julia
+615,2025-01-25,98416100011,Financiamento,,Aprovado,Web,Rio de Janeiro,Fernanda
+616,26/01/2025,32676810663,Emprestimo,66760.0,Aprovado,App,Campinas,Marcos
+617,2025/01/09,37461187724,Cartao,57622.0,Pendente,Agencia,Sao Paulo,Carlos
+618,14/01/2025,52513538174,Financiamento,78639.0,Negado,Agencia,Sao Paulo,Ana
+619,2025-02-28,93627937158,Cartao,13998.0,Pendente,App,Campinas,Marcos
+620,2025/02/06,11328291658,Emprestimo,98334.0,Aprovado,App,Rio de Janeiro,Julia
+621,19/01/2025,75142206384,Cartao,66017.0,Negado,Web,Recife,Carlos
+622,2025-02-22,35894145047,Emprestimo,21916.0,Aprovado,App,Sao Paulo,Fernanda
+623,08/01/2025,92433292956,Financiamento,14387.0,Pendente,Agencia,Recife,Julia
+624,2025/01/31,29012369038,Emprestimo,22370.0,Negado,Web,Porto Alegre,Ana
+625,18/01/2025,34917428991,Emprestimo,,Pendente,Web,Sao Paulo,Carlos
+626,2025-01-16,96768437342,Financiamento,46154.0,Negado,Agencia,Curitiba,Fernanda
+627,2025-02-18,38816076202,Emprestimo,115589.0,Aprovado,App,Salvador,Lucas
+628,2025/01/10,29843196536,Financiamento,,Aprovado,Web,Campinas,Ana
+629,2025-02-02,74479658392,Cartao,75225.0,Aprovado,Agencia,Salvador,Marcos
+630,09/01/2025,60575920101,Emprestimo,41904.0,Aprovado,App,Recife,Marcos
+631,2025/01/23,41424829486,Financiamento,10832.0,Aprovado,Web,Rio de Janeiro,Ana
+632,2025-02-09,80507478273,Cartao,,Negado,Web,Curitiba,Julia
+633,2025/02/22,25634849816,Financiamento,16804.0,Negado,App,Fortaleza,Carlos
+634,10/01/2025,94613114697,Cartao,,Aprovado,App,Porto Alegre,Marcos
+635,2025/01/13,71723259016,Cartao,18993.0,Pendente,App,Curitiba,Fernanda
+636,18/01/2025,24658840860,Cartao,51303.0,Pendente,App,Campinas,Fernanda
+637,16/01/2025,93216792905,Financiamento,68501.0,Pendente,App,Sao Paulo,Ana
+638,19/01/2025,45961491145,Cartao,,Negado,Web,Porto Alegre,Fernanda
+639,2025-01-16,94156782251,Financiamento,,Pendente,Web,Campinas,Marcos
+640,2025-01-01,73238397240,Emprestimo,118526.0,Negado,Agencia,Recife,Marcos
+641,2025-02-01,98501232690,Cartao,61685.0,Aprovado,Web,Porto Alegre,Carlos
+642,2025-01-04,84573371711,Cartao,10160.0,Pendente,Agencia,Campinas,Julia
+643,05/02/2025,76997855998,Financiamento,18649.0,Pendente,Web,Curitiba,Lucas
+644,2025/02/08,56337858834,Financiamento,,Pendente,Web,Salvador,Fernanda
+645,09/02/2025,52773744677,Cartao,,Negado,App,Belo Horizonte,Carlos
+646,26/02/2025,71761947729,Financiamento,,Negado,Web,Curitiba,Carlos
+647,2025/01/28,78293537388,Financiamento,,Pendente,App,Recife,Fernanda
+648,08/02/2025,22246819767,Emprestimo,19442.0,Aprovado,Web,Goiania,Lucas
+649,2025/01/02,98237649169,Emprestimo,,Negado,Web,Goiania,Ana
+650,23/02/2025,12343388002,Emprestimo,39995.0,Aprovado,App,Fortaleza,Lucas
+651,2025/01/23,21911941580,Cartao,51808.0,Aprovado,Agencia,Fortaleza,Julia
+652,27/02/2025,81607464923,Cartao,4324.0,Pendente,App,Rio de Janeiro,Julia
+653,2025/02/01,28562223276,Financiamento,6599.0,Pendente,Agencia,Salvador,Marcos
+654,2025/01/06,20303871925,Financiamento,1821.0,Aprovado,App,Sao Paulo,Marcos
+655,02/01/2025,36586975676,Cartao,15212.0,Pendente,Agencia,Porto Alegre,Julia
+656,2025/02/11,67724505853,Emprestimo,2936.0,Aprovado,Web,Rio de Janeiro,Lucas
+657,2025-01-10,53077687749,Cartao,,Aprovado,App,Campinas,Lucas
+658,2025/02/17,35668778941,Emprestimo,54602.0,Negado,Agencia,Curitiba,Carlos
+659,2025-02-16,91690516271,Cartao,96547.0,Pendente,Web,Belo Horizonte,Julia
+660,2025-02-09,16245781580,Financiamento,614.0,Negado,App,Curitiba,Fernanda
+661,2025/02/17,98917038360,Emprestimo,72592.0,Pendente,Web,Porto Alegre,Ana
+662,2025-01-04,35333820509,Cartao,16762.0,Negado,App,Rio de Janeiro,Lucas
+663,04/01/2025,25255159611,Cartao,19370.0,Pendente,Agencia,Recife,Ana
+664,12/01/2025,27342851788,Financiamento,,Negado,Agencia,Salvador,Marcos
+665,03/01/2025,43758491869,Cartao,81365.0,Pendente,Web,Curitiba,Julia
+666,2025/02/26,88686628225,Emprestimo,70571.0,Negado,Web,Recife,Fernanda
+667,01/02/2025,60485602908,Emprestimo,,Aprovado,Agencia,Sao Paulo,Ana
+668,25/02/2025,17063233895,Cartao,44429.0,Aprovado,App,Salvador,Julia
+669,2025-02-06,64619425018,Cartao,4794.0,Negado,Web,Sao Paulo,Marcos
+670,2025/01/27,81295630159,Financiamento,40189.0,Negado,App,Porto Alegre,Marcos
+671,2025/01/12,38268549976,Financiamento,6601.0,Negado,Agencia,Campinas,Lucas
+672,2025/02/12,84136083735,Emprestimo,,Negado,App,Sao Paulo,Ana
+673,2025/01/27,71566163046,Cartao,8187.0,Negado,App,Fortaleza,Ana
+674,04/02/2025,48417421493,Financiamento,38350.0,Aprovado,Agencia,Curitiba,Ana
+675,2025-01-03,93237045180,Financiamento,,Pendente,Web,Salvador,Carlos
+676,2025/01/09,45266813023,Cartao,6030.0,Aprovado,Agencia,Salvador,Julia
+677,10/02/2025,48088088183,Emprestimo,,Negado,Agencia,Recife,Lucas
+678,2025/01/20,18331067651,Financiamento,55671.0,Pendente,App,Rio de Janeiro,Ana
+679,2025/02/22,39623662993,Financiamento,12139.0,Pendente,Agencia,Porto Alegre,Fernanda
+680,2025-01-01,31956667872,Financiamento,63275.0,Pendente,Agencia,Rio de Janeiro,Marcos
+681,2025-01-27,35944302360,Financiamento,85536.0,Aprovado,Agencia,Goiania,Ana
+682,2025/01/27,55599388962,Financiamento,5341.0,Negado,App,Salvador,Fernanda
+683,2025/01/15,76335114061,Emprestimo,11901.0,Negado,Agencia,Salvador,Julia
+684,2025/01/04,34748696789,Financiamento,13534.0,Negado,Web,Belo Horizonte,Fernanda
+685,13/02/2025,67522199179,Emprestimo,66739.0,Negado,Web,Rio de Janeiro,Lucas
+686,2025/01/21,98848703289,Emprestimo,14986.0,Pendente,Web,Recife,Julia
+687,17/01/2025,72703563973,Financiamento,101013.0,Negado,App,Salvador,Julia
+688,2025-02-15,32993242644,Financiamento,,Pendente,Web,Porto Alegre,Marcos
+689,2025-02-26,20323253962,Cartao,,Pendente,Agencia,Goiania,Ana
+690,08/02/2025,59168498416,Financiamento,,Negado,App,Goiania,Julia
+691,2025-02-27,62842459961,Cartao,21342.0,Pendente,Agencia,Belo Horizonte,Ana
+692,2025-02-09,82176236449,Financiamento,40416.0,Aprovado,Web,Curitiba,Julia
+693,18/01/2025,11524986920,Emprestimo,15644.0,Pendente,Agencia,Recife,Carlos
+694,2025-02-10,25032975149,Cartao,,Negado,Agencia,Belo Horizonte,Fernanda
+695,2025/01/14,59483670029,Cartao,112501.0,Pendente,Agencia,Porto Alegre,Ana
+696,2025-01-10,35164375282,Emprestimo,94059.0,Negado,Web,Belo Horizonte,Julia
+697,2025/02/14,69271959744,Financiamento,37062.0,Pendente,App,Fortaleza,Marcos
+698,2025-01-02,79688500854,Financiamento,27642.0,Pendente,App,Porto Alegre,Lucas
+699,17/01/2025,74681116333,Financiamento,,Negado,Web,Campinas,Ana
+700,13/02/2025,70390562566,Cartao,,Aprovado,Agencia,Rio de Janeiro,Julia
+701,28/02/2025,83472344232,Financiamento,16370.0,Aprovado,App,Curitiba,Julia
+702,2025/01/14,92498743371,Cartao,81896.0,Pendente,App,Sao Paulo,Fernanda
+703,2025/01/17,80123029473,Financiamento,,Negado,App,Curitiba,Fernanda
+704,2025/01/02,60704373442,Cartao,52680.0,Negado,App,Campinas,Julia
+705,2025-01-24,10409271221,Emprestimo,65785.0,Negado,Agencia,Recife,Carlos
+706,2025/01/15,71134292622,Emprestimo,65994.0,Negado,Web,Recife,Julia
+707,30/01/2025,71904467628,Emprestimo,,Pendente,App,Recife,Fernanda
+708,2025/02/10,74380468698,Emprestimo,3208.0,Negado,App,Campinas,Ana
+709,2025/01/12,39393995361,Emprestimo,,Pendente,Web,Salvador,Carlos
+710,2025/01/29,83478877965,Emprestimo,87210.0,Negado,App,Belo Horizonte,Julia
+711,19/01/2025,81191498010,Emprestimo,83856.0,Pendente,Agencia,Campinas,Carlos
+712,2025/01/18,70631405758,Emprestimo,,Aprovado,App,Curitiba,Fernanda
+713,2025-02-15,91303360611,Financiamento,18033.0,Pendente,App,Recife,Julia
+714,2025/01/10,43465371239,Emprestimo,60264.0,Negado,Web,Rio de Janeiro,Marcos
+715,06/01/2025,50600088815,Cartao,,Pendente,App,Salvador,Fernanda
+716,2025-02-05,44648677010,Emprestimo,,Negado,App,Sao Paulo,Lucas
+717,17/01/2025,56359008259,Financiamento,104163.0,Pendente,Web,Rio de Janeiro,Fernanda
+718,2025/02/10,17422222357,Emprestimo,19361.0,Aprovado,Agencia,Sao Paulo,Carlos
+719,28/02/2025,53243999487,Emprestimo,43896.0,Negado,Web,Salvador,Carlos
+720,2025/01/18,22904349909,Emprestimo,49617.0,Negado,App,Curitiba,Julia
+721,2025/02/03,20879808450,Financiamento,115866.0,Aprovado,Agencia,Fortaleza,Lucas
+722,2025-02-27,44193794062,Financiamento,88394.0,Negado,Agencia,Porto Alegre,Fernanda
+723,16/02/2025,65174168029,Emprestimo,29575.0,Aprovado,Web,Campinas,Ana
+724,2025/02/07,35446585811,Emprestimo,28712.0,Pendente,Web,Recife,Ana
+725,2025-02-13,80952847176,Financiamento,12628.0,Negado,Web,Belo Horizonte,Lucas
+726,09/02/2025,90579712592,Emprestimo,3132.0,Aprovado,Agencia,Fortaleza,Ana
+727,2025-01-24,23806708685,Financiamento,18598.0,Aprovado,Web,Campinas,Carlos
+728,2025-02-07,36999514629,Emprestimo,,Negado,App,Rio de Janeiro,Lucas
+729,02/01/2025,82174511513,Emprestimo,117545.0,Pendente,Agencia,Goiania,Ana
+730,2025-02-04,62503369110,Financiamento,,Pendente,Agencia,Goiania,Carlos
+731,05/02/2025,27216156734,Cartao,,Negado,Agencia,Campinas,Fernanda
+732,2025-01-14,36257841608,Emprestimo,16495.0,Pendente,App,Salvador,Ana
+733,2025/01/06,81292509829,Emprestimo,107975.0,Aprovado,Agencia,Salvador,Julia
+734,28/01/2025,92692781531,Cartao,12974.0,Pendente,Agencia,Recife,Lucas
+735,2025/02/07,68092181941,Financiamento,7612.0,Negado,Agencia,Curitiba,Carlos
+736,22/01/2025,26566389661,Emprestimo,114926.0,Aprovado,App,Recife,Marcos
+737,2025-01-10,21584748521,Cartao,11437.0,Aprovado,Web,Campinas,Julia
+738,2025/02/21,51705863178,Cartao,,Aprovado,Agencia,Salvador,Marcos
+739,2025/02/27,99936107475,Emprestimo,74559.0,Negado,Web,Belo Horizonte,Marcos
+740,2025-02-08,10535305279,Cartao,,Aprovado,Web,Fortaleza,Julia
+741,14/02/2025,89519543528,Cartao,6080.0,Negado,Web,Campinas,Ana
+742,2025/01/01,71585282662,Financiamento,57807.0,Pendente,Agencia,Porto Alegre,Ana
+743,2025-02-06,30068654917,Cartao,79663.0,Negado,Web,Sao Paulo,Julia
+744,01/03/2025,84324199820,Emprestimo,,Pendente,Web,Goiania,Carlos
+745,2025/02/19,97002416150,Cartao,66735.0,Aprovado,App,Goiania,Julia
+746,2025-02-27,29770601113,Financiamento,14011.0,Pendente,Web,Salvador,Ana
+747,2025/01/11,65820169612,Cartao,17902.0,Negado,Agencia,Fortaleza,Ana
+748,29/01/2025,13411020762,Cartao,3698.0,Negado,Web,Recife,Carlos
+749,2025/02/06,65969321573,Cartao,11432.0,Pendente,Web,Goiania,Julia
+750,2025-01-24,80311868629,Cartao,78128.0,Aprovado,Agencia,Rio de Janeiro,Marcos
+751,27/02/2025,51706003177,Cartao,12180.0,Negado,Agencia,Fortaleza,Lucas
+752,2025/01/01,44782181796,Cartao,,Pendente,Agencia,Salvador,Julia
+753,2025-02-04,24881626788,Cartao,12054.0,Aprovado,Web,Rio de Janeiro,Lucas
+754,31/01/2025,36535873746,Emprestimo,4776.0,Pendente,Agencia,Curitiba,Julia
+755,08/02/2025,41294426198,Emprestimo,10435.0,Pendente,Agencia,Salvador,Julia
+756,2025/01/09,94936714166,Financiamento,105921.0,Pendente,Web,Campinas,Ana
+757,2025/02/06,35977536938,Emprestimo,8565.0,Negado,App,Porto Alegre,Julia
+758,24/01/2025,98867909702,Financiamento,,Aprovado,App,Goiania,Julia
+759,2025/02/01,48812938311,Cartao,58100.0,Pendente,App,Fortaleza,Marcos
+760,2025-01-14,85332306748,Emprestimo,15789.0,Negado,Agencia,Campinas,Julia
+761,2025-01-02,44114851328,Emprestimo,91355.0,Aprovado,Web,Curitiba,Ana
+762,26/01/2025,71285502937,Financiamento,88107.0,Negado,Web,Campinas,Marcos
+763,2025/02/06,57395465232,Financiamento,59257.0,Pendente,App,Fortaleza,Carlos
+764,07/02/2025,59029797063,Financiamento,,Negado,App,Recife,Fernanda
+765,2025-02-27,86902686487,Cartao,33866.0,Aprovado,App,Recife,Julia
+766,2025-02-17,73272713266,Financiamento,12291.0,Aprovado,Agencia,Goiania,Lucas
+767,27/02/2025,66195760962,Cartao,4219.0,Pendente,App,Fortaleza,Lucas
+768,2025/02/06,75471540294,Emprestimo,13159.0,Negado,Agencia,Porto Alegre,Fernanda
+769,2025/01/25,10999581982,Emprestimo,,Negado,Web,Goiania,Fernanda
+770,2025-01-27,44609946851,Financiamento,11842.0,Pendente,Web,Fortaleza,Lucas
+771,2025/02/17,18908653083,Cartao,,Negado,Agencia,Porto Alegre,Marcos
+772,2025-01-24,93146570912,Emprestimo,,Negado,App,Sao Paulo,Marcos
+773,10/01/2025,32811776648,Financiamento,,Pendente,Agencia,Goiania,Lucas
+774,18/01/2025,51374096929,Financiamento,37406.0,Negado,App,Campinas,Fernanda
+775,2025/02/07,87086238596,Financiamento,11350.0,Negado,Agencia,Curitiba,Fernanda
+776,2025-01-26,62115035639,Emprestimo,9684.0,Negado,Agencia,Recife,Julia
+777,2025/02/28,53087746423,Financiamento,6800.0,Aprovado,Agencia,Fortaleza,Julia
+778,2025/01/20,18483816027,Emprestimo,18495.0,Pendente,Web,Sao Paulo,Carlos
+779,2025-02-15,48228642463,Cartao,67345.0,Pendente,Agencia,Curitiba,Lucas
+780,2025/01/12,91605743969,Cartao,71233.0,Pendente,App,Fortaleza,Marcos
+781,2025-01-30,17990126568,Emprestimo,30871.0,Aprovado,Agencia,Sao Paulo,Marcos
+782,20/01/2025,31560789067,Emprestimo,,Negado,Agencia,Goiania,Lucas
+783,2025/01/29,69480892499,Emprestimo,61972.0,Aprovado,App,Porto Alegre,Marcos
+784,2025/02/17,39003198137,Financiamento,10732.0,Pendente,Agencia,Belo Horizonte,Marcos
+785,18/02/2025,27049673153,Cartao,,Pendente,Web,Rio de Janeiro,Fernanda
+786,2025/01/17,71619607398,Cartao,,Aprovado,App,Rio de Janeiro,Marcos
+787,2025-02-16,71089318942,Financiamento,89166.0,Negado,Web,Sao Paulo,Julia
+788,2025-02-10,58546765294,Emprestimo,3487.0,Negado,Web,Rio de Janeiro,Fernanda
+789,2025-01-13,40925600269,Cartao,,Aprovado,Agencia,Sao Paulo,Lucas
+790,02/01/2025,23487708841,Cartao,,Pendente,App,Campinas,Ana
+791,2025/02/12,81059262696,Financiamento,8117.0,Negado,Web,Sao Paulo,Carlos
+792,2025/02/16,92864287112,Cartao,107094.0,Negado,Web,Rio de Janeiro,Marcos
+793,10/01/2025,26064018418,Emprestimo,3595.0,Aprovado,App,Porto Alegre,Carlos
+794,2025-01-26,43703573655,Cartao,13332.0,Aprovado,Web,Rio de Janeiro,Lucas
+795,2025/01/04,66413978619,Financiamento,,Aprovado,Agencia,Sao Paulo,Lucas
+796,2025/01/09,48681490303,Emprestimo,,Aprovado,Agencia,Curitiba,Carlos
+797,2025-02-18,54584074636,Cartao,61556.0,Aprovado,App,Belo Horizonte,Carlos
+798,28/02/2025,19517136397,Financiamento,6759.0,Aprovado,Agencia,Salvador,Ana
+799,2025-01-05,72875813634,Financiamento,79689.0,Pendente,Web,Belo Horizonte,Marcos
+800,02/03/2025,91656347310,Cartao,9678.0,Negado,App,Rio de Janeiro,Ana
+801,27/01/2025,26255109605,Financiamento,60035.0,Negado,Web,Belo Horizonte,Ana
+802,2025-03-02,35059287885,Financiamento,53057.0,Negado,App,Recife,Julia
+803,31/01/2025,80745512660,Cartao,110825.0,Negado,Agencia,Fortaleza,Marcos
+804,2025-01-16,64074661025,Cartao,15074.0,Pendente,App,Rio de Janeiro,Carlos
+805,2025-01-11,35972154000,Emprestimo,,Negado,Web,Fortaleza,Fernanda
+806,2025-02-25,56623599917,Financiamento,1561.0,Pendente,Agencia,Fortaleza,Julia
+807,16/02/2025,73898214617,Emprestimo,,Aprovado,App,Salvador,Carlos
+808,11/02/2025,26272202913,Financiamento,5145.0,Negado,App,Sao Paulo,Julia
+809,2025-01-29,24255952439,Financiamento,43715.0,Aprovado,App,Goiania,Carlos
+810,21/02/2025,18288593509,Financiamento,9305.0,Pendente,App,Rio de Janeiro,Lucas
+811,30/01/2025,42968049775,Cartao,56148.0,Pendente,App,Rio de Janeiro,Marcos
+812,24/02/2025,38781058411,Financiamento,35225.0,Negado,Agencia,Belo Horizonte,Fernanda
+813,2025-02-11,31275983564,Financiamento,69437.0,Negado,Agencia,Goiania,Marcos
+814,2025-01-08,28211974041,Emprestimo,941.0,Aprovado,Web,Goiania,Lucas
+815,2025/01/20,24487146681,Financiamento,,Aprovado,Web,Goiania,Marcos
+816,07/01/2025,10929349806,Financiamento,114206.0,Negado,App,Recife,Marcos
+817,2025/01/15,66654678140,Financiamento,59874.0,Aprovado,Web,Sao Paulo,Carlos
+818,24/02/2025,99521394485,Cartao,4305.0,Pendente,Web,Recife,Fernanda
+819,2025/02/25,54468804204,Financiamento,,Pendente,App,Curitiba,Lucas
+820,29/01/2025,25035482653,Emprestimo,,Pendente,Web,Belo Horizonte,Ana
+821,2025/01/11,10458528340,Emprestimo,,Aprovado,Web,Recife,Ana
+822,2025/02/03,36530187196,Financiamento,1559.0,Pendente,Agencia,Porto Alegre,Marcos
+823,2025-03-02,34121900845,Emprestimo,750.0,Negado,Web,Rio de Janeiro,Carlos
+824,2025/03/02,15984617306,Emprestimo,,Aprovado,Agencia,Goiania,Carlos
+825,2025-02-22,90598810064,Financiamento,68809.0,Pendente,Web,Belo Horizonte,Julia
+826,2025-01-31,17633067784,Cartao,,Aprovado,Agencia,Curitiba,Lucas
+827,2025-01-20,21980452004,Emprestimo,8728.0,Aprovado,Agencia,Sao Paulo,Ana
+828,03/02/2025,83204576539,Emprestimo,,Pendente,Web,Fortaleza,Carlos
+829,07/01/2025,87338874301,Emprestimo,60480.0,Pendente,App,Curitiba,Julia
+830,06/02/2025,30134574627,Emprestimo,84468.0,Negado,App,Belo Horizonte,Fernanda
+831,07/01/2025,37659614875,Financiamento,,Aprovado,Agencia,Porto Alegre,Ana
+832,11/02/2025,91458368905,Emprestimo,9575.0,Negado,App,Curitiba,Marcos
+833,2025-01-11,46211245604,Emprestimo,90465.0,Negado,Web,Goiania,Ana
+834,04/01/2025,81349667111,Emprestimo,,Negado,Agencia,Goiania,Marcos
+835,2025-01-23,88900244249,Cartao,17632.0,Negado,App,Rio de Janeiro,Fernanda
+836,16/01/2025,10689964070,Cartao,14937.0,Negado,Web,Goiania,Ana
+837,2025/02/15,22251474923,Emprestimo,95734.0,Pendente,Agencia,Goiania,Lucas
+838,2025/02/09,85996165084,Cartao,19644.0,Pendente,Web,Fortaleza,Marcos
+839,04/01/2025,83918772863,Emprestimo,,Aprovado,App,Sao Paulo,Carlos
+840,2025/02/21,45436613603,Financiamento,21723.0,Aprovado,App,Rio de Janeiro,Carlos
+841,2025/01/28,33458650263,Financiamento,46712.0,Negado,Agencia,Sao Paulo,Ana
+842,2025-02-22,65049666122,Cartao,7329.0,Pendente,Agencia,Curitiba,Fernanda
+843,2025-01-28,57635866051,Emprestimo,15740.0,Aprovado,App,Rio de Janeiro,Fernanda
+844,2025/01/25,78429623498,Emprestimo,,Aprovado,Web,Fortaleza,Julia
+845,21/01/2025,99687792209,Emprestimo,115728.0,Pendente,Agencia,Goiania,Carlos
+846,15/02/2025,68564771192,Financiamento,3581.0,Aprovado,App,Recife,Marcos
+847,2025-01-13,16414194238,Emprestimo,9290.0,Aprovado,Web,Goiania,Ana
+848,2025-01-08,74811232947,Financiamento,23101.0,Aprovado,Web,Sao Paulo,Ana
+849,2025-02-14,57107385668,Financiamento,14280.0,Aprovado,Agencia,Curitiba,Julia
+850,2025/02/26,90499726452,Cartao,70123.0,Negado,Web,Sao Paulo,Fernanda
+851,06/01/2025,96980200603,Cartao,,Negado,Web,Porto Alegre,Marcos
+852,2025-01-30,33935823997,Emprestimo,79718.0,Aprovado,Web,Curitiba,Carlos
+853,20/02/2025,15852581908,Emprestimo,,Negado,Agencia,Sao Paulo,Fernanda
+854,2025/02/22,88021232604,Cartao,,Pendente,Web,Porto Alegre,Marcos
+855,2025/02/19,42255518399,Financiamento,85215.0,Aprovado,Web,Salvador,Lucas
+856,2025-03-01,78514831496,Financiamento,73544.0,Pendente,Agencia,Rio de Janeiro,Lucas
+857,2025-01-18,55953498620,Cartao,,Pendente,App,Porto Alegre,Ana
+858,2025/01/01,57980586998,Financiamento,,Pendente,App,Sao Paulo,Fernanda
+859,2025-01-19,87327949414,Cartao,18331.0,Aprovado,App,Campinas,Marcos
+860,2025/02/08,65938003302,Financiamento,78239.0,Aprovado,Web,Recife,Lucas
+861,2025/02/08,87882937354,Financiamento,26272.0,Pendente,Agencia,Curitiba,Fernanda
+862,2025-01-22,25389548661,Cartao,7434.0,Pendente,Web,Belo Horizonte,Marcos
+863,19/02/2025,49582756623,Emprestimo,10867.0,Pendente,App,Porto Alegre,Lucas
+864,2025-02-05,43916527186,Emprestimo,103961.0,Negado,Agencia,Rio de Janeiro,Carlos
+865,2025/01/14,36598391162,Emprestimo,7731.0,Negado,Agencia,Campinas,Lucas
+866,02/03/2025,55267176539,Cartao,119846.0,Negado,App,Sao Paulo,Julia
+867,2025-02-20,89211272373,Financiamento,51345.0,Negado,Web,Belo Horizonte,Marcos
+868,17/02/2025,74258482739,Financiamento,,Aprovado,Agencia,Campinas,Julia
+869,05/02/2025,11345517724,Financiamento,,Aprovado,App,Fortaleza,Julia
+870,2025-01-10,18435891377,Cartao,114323.0,Pendente,App,Goiania,Ana
+871,11/01/2025,23439682571,Financiamento,10962.0,Aprovado,App,Recife,Lucas
+872,02/02/2025,81872866815,Cartao,15760.0,Aprovado,App,Salvador,Marcos
+873,2025/02/06,66217435629,Financiamento,27470.0,Negado,App,Curitiba,Julia
+874,14/02/2025,43570070967,Cartao,43083.0,Pendente,App,Recife,Lucas
+875,26/01/2025,19052902763,Financiamento,40754.0,Negado,Web,Rio de Janeiro,Ana
+876,2025/01/25,72616670922,Emprestimo,30804.0,Pendente,App,Goiania,Ana
+877,2025/02/27,17389474526,Emprestimo,85779.0,Negado,Agencia,Salvador,Fernanda
+878,2025/01/12,17193793467,Emprestimo,13318.0,Pendente,Agencia,Recife,Julia
+879,2025-02-10,56622976185,Emprestimo,34746.0,Pendente,App,Recife,Julia
+880,19/01/2025,40454551569,Financiamento,36317.0,Negado,Agencia,Salvador,Lucas
+881,2025/02/26,49666808097,Cartao,15086.0,Negado,App,Belo Horizonte,Ana
+882,2025-01-15,74635065480,Financiamento,11489.0,Pendente,Web,Recife,Ana
+883,2025-01-19,32998602898,Emprestimo,,Aprovado,Web,Sao Paulo,Lucas
+884,2025-02-03,10844047283,Cartao,,Aprovado,App,Sao Paulo,Lucas
+885,13/01/2025,55543649655,Emprestimo,2913.0,Negado,Agencia,Goiania,Julia
+886,02/03/2025,60308461336,Cartao,10508.0,Pendente,Web,Belo Horizonte,Carlos
+887,19/02/2025,98553003736,Emprestimo,,Pendente,App,Sao Paulo,Julia
+888,09/02/2025,24642709428,Financiamento,,Pendente,Web,Goiania,Marcos
+889,2025-02-10,25465508628,Financiamento,,Pendente,App,Recife,Fernanda
+890,16/02/2025,94358389546,Financiamento,5506.0,Negado,Web,Sao Paulo,Fernanda
+891,2025/02/13,95119230724,Emprestimo,92643.0,Aprovado,Agencia,Campinas,Carlos
+892,2025/02/12,34836456228,Financiamento,4795.0,Aprovado,Web,Curitiba,Fernanda
+893,2025-01-26,80234023680,Emprestimo,,Aprovado,Agencia,Goiania,Fernanda
+894,27/01/2025,58365477993,Cartao,58607.0,Pendente,App,Rio de Janeiro,Lucas
+895,2025-02-04,41612599842,Cartao,110929.0,Pendente,Agencia,Fortaleza,Julia
+896,2025/02/11,57264302188,Emprestimo,13832.0,Aprovado,App,Curitiba,Carlos
+897,22/01/2025,95112545375,Financiamento,74584.0,Pendente,Agencia,Recife,Fernanda
+898,2025/02/28,95327125278,Cartao,9007.0,Negado,Web,Belo Horizonte,Carlos
+899,2025/01/14,71267015513,Cartao,76970.0,Aprovado,Agencia,Recife,Lucas
+900,2025-02-10,35981920157,Cartao,4085.0,Aprovado,Web,Recife,Lucas
+901,2025/02/14,87795168656,Emprestimo,116473.0,Aprovado,App,Recife,Lucas
+902,2025-02-26,66696974051,Cartao,,Pendente,Agencia,Rio de Janeiro,Julia
+903,30/01/2025,54973805411,Emprestimo,57877.0,Aprovado,Web,Curitiba,Lucas
+904,2025-01-26,86441718507,Emprestimo,15944.0,Aprovado,Agencia,Campinas,Lucas
+905,2025-03-01,53188089890,Financiamento,2702.0,Aprovado,App,Curitiba,Ana
+906,2025-02-12,10760236946,Cartao,,Negado,Web,Salvador,Ana
+907,2025/02/04,28293810187,Emprestimo,16562.0,Negado,App,Fortaleza,Lucas
+908,25/01/2025,51019635069,Cartao,,Aprovado,Agencia,Belo Horizonte,Marcos
+909,2025-02-03,54318391306,Cartao,,Negado,App,Salvador,Marcos
+910,2025-01-02,12091425549,Emprestimo,19233.0,Negado,App,Sao Paulo,Julia
+911,2025-01-29,52218758304,Financiamento,84517.0,Negado,Web,Porto Alegre,Ana
+912,2025-01-18,30961900528,Cartao,,Aprovado,Web,Belo Horizonte,Marcos
+913,2025/01/05,63474032590,Emprestimo,,Pendente,Agencia,Salvador,Julia
+914,2025/03/01,56331636684,Emprestimo,19366.0,Pendente,Web,Fortaleza,Marcos
+915,2025/01/16,50484036988,Financiamento,,Aprovado,Agencia,Salvador,Marcos
+916,20/02/2025,52265710653,Financiamento,,Negado,App,Porto Alegre,Julia
+917,2025/02/19,83594818701,Emprestimo,83205.0,Pendente,Web,Salvador,Marcos
+918,14/02/2025,14008559099,Cartao,65115.0,Pendente,Web,Fortaleza,Lucas
+919,2025-02-22,72197401799,Cartao,,Negado,App,Recife,Lucas
+920,2025-02-14,13532663902,Cartao,,Pendente,App,Campinas,Ana
+921,09/02/2025,59135955431,Emprestimo,5914.0,Aprovado,App,Belo Horizonte,Fernanda
+922,2025/02/16,95658111078,Emprestimo,16343.0,Aprovado,Agencia,Fortaleza,Ana
+923,2025/01/24,99282985969,Financiamento,82002.0,Aprovado,Web,Fortaleza,Julia
+924,2025/01/02,90353893797,Emprestimo,,Negado,Web,Belo Horizonte,Lucas
+925,2025-01-08,69065689501,Financiamento,90277.0,Aprovado,Agencia,Curitiba,Marcos
+926,2025-01-17,46651954907,Emprestimo,70024.0,Pendente,Web,Rio de Janeiro,Lucas
+927,2025-02-14,64441151472,Cartao,3977.0,Pendente,App,Fortaleza,Ana
+928,16/01/2025,18204025664,Emprestimo,54352.0,Aprovado,App,Curitiba,Marcos
+929,14/01/2025,50365533134,Emprestimo,2748.0,Pendente,Web,Belo Horizonte,Julia
+930,2025/01/03,98366113218,Emprestimo,,Negado,Agencia,Sao Paulo,Carlos
+931,11/02/2025,53473393566,Cartao,36649.0,Aprovado,App,Salvador,Fernanda
+932,2025-02-05,57663288332,Cartao,55396.0,Negado,Web,Goiania,Carlos
+933,2025/01/07,78994640580,Cartao,65989.0,Pendente,App,Sao Paulo,Lucas
+934,01/03/2025,30330483150,Cartao,,Aprovado,App,Porto Alegre,Julia
+935,2025/02/04,24856648358,Cartao,67607.0,Pendente,App,Sao Paulo,Ana
+936,2025/02/20,64484095686,Emprestimo,3079.0,Negado,Web,Rio de Janeiro,Ana
+937,2025-01-14,13753062359,Cartao,10432.0,Negado,Web,Belo Horizonte,Fernanda
+938,2025-02-06,88478714359,Emprestimo,18681.0,Pendente,Agencia,Salvador,Carlos
+939,09/02/2025,35047072511,Emprestimo,5121.0,Aprovado,App,Rio de Janeiro,Fernanda
+940,2025-01-22,19218816604,Emprestimo,,Aprovado,Web,Belo Horizonte,Marcos
+941,2025/01/11,24226542138,Financiamento,4913.0,Pendente,App,Fortaleza,Fernanda
+942,2025/01/21,25113445376,Cartao,,Aprovado,App,Curitiba,Carlos
+943,2025/02/01,17783669033,Emprestimo,7128.0,Pendente,Agencia,Fortaleza,Carlos
+944,30/01/2025,35360490311,Cartao,58763.0,Negado,Agencia,Goiania,Fernanda
+945,22/02/2025,48661669492,Emprestimo,92421.0,Negado,Agencia,Fortaleza,Ana
+946,2025-02-20,54878468247,Financiamento,17936.0,Pendente,App,Salvador,Ana
+947,2025/01/15,57320980230,Emprestimo,,Aprovado,App,Fortaleza,Carlos
+948,2025-01-01,68669521794,Financiamento,,Aprovado,Web,Fortaleza,Fernanda
+949,11/01/2025,85912701744,Emprestimo,16537.0,Negado,App,Curitiba,Marcos
+950,2025/02/28,67035783051,Financiamento,78150.0,Aprovado,Web,Salvador,Lucas
+951,2025/01/04,41972839370,Cartao,2720.0,Negado,App,Salvador,Marcos
+952,2025/02/16,43377633983,Emprestimo,4547.0,Pendente,App,Sao Paulo,Lucas
+953,2025/02/04,45408804985,Financiamento,,Negado,Web,Campinas,Ana
+954,24/01/2025,50835926148,Cartao,,Aprovado,App,Salvador,Marcos
+955,2025/01/17,24570316950,Cartao,18814.0,Negado,App,Campinas,Julia
+956,2025/01/21,96470084767,Financiamento,13068.0,Aprovado,App,Salvador,Marcos
+957,2025-02-27,16112650600,Cartao,112836.0,Aprovado,App,Rio de Janeiro,Ana
+958,2025-03-02,76081703310,Cartao,39708.0,Negado,Agencia,Curitiba,Marcos
+959,2025/02/15,83581904999,Emprestimo,14782.0,Aprovado,Agencia,Recife,Julia
+960,07/02/2025,85379982232,Cartao,,Pendente,Agencia,Sao Paulo,Carlos
+961,17/01/2025,52279415023,Financiamento,12325.0,Aprovado,Agencia,Sao Paulo,Julia
+962,2025/01/12,99235382634,Emprestimo,46005.0,Negado,Agencia,Fortaleza,Marcos
+963,17/02/2025,11649094879,Emprestimo,19623.0,Negado,Web,Salvador,Carlos
+964,2025-02-10,34714794180,Cartao,,Negado,App,Goiania,Ana
+965,2025/02/05,22501028865,Financiamento,81275.0,Aprovado,Agencia,Campinas,Julia
+966,27/01/2025,18548767301,Financiamento,36493.0,Pendente,Web,Salvador,Julia
+967,2025/02/05,76173895212,Emprestimo,,Negado,App,Fortaleza,Fernanda
+968,2025/02/16,22643572104,Financiamento,104843.0,Pendente,Web,Recife,Marcos
+969,2025/02/04,24986489379,Emprestimo,63906.0,Pendente,App,Salvador,Carlos
+970,2025-03-02,82877672368,Financiamento,,Aprovado,Web,Salvador,Marcos
+971,2025/02/15,30842726855,Financiamento,,Negado,Web,Belo Horizonte,Carlos
+972,2025-02-08,49682854924,Cartao,15689.0,Negado,Web,Salvador,Lucas
+973,22/02/2025,14710698622,Emprestimo,,Pendente,Web,Rio de Janeiro,Lucas
+974,19/01/2025,28092000962,Financiamento,64304.0,Negado,Agencia,Fortaleza,Fernanda
+975,27/01/2025,59281079958,Financiamento,,Aprovado,App,Rio de Janeiro,Marcos
+976,2025-02-24,41586680407,Emprestimo,15840.0,Negado,App,Sao Paulo,Ana
+977,2025/02/04,98601810482,Cartao,,Aprovado,Agencia,Goiania,Fernanda
+978,2025/02/16,94602343929,Cartao,18302.0,Pendente,Agencia,Sao Paulo,Julia
+979,2025-02-07,63214062337,Emprestimo,11357.0,Aprovado,App,Rio de Janeiro,Lucas
+980,11/02/2025,37078341135,Emprestimo,11741.0,Negado,App,Fortaleza,Ana
+981,2025-01-01,58721890385,Financiamento,48777.0,Negado,Web,Porto Alegre,Ana
+982,2025-02-04,76684185575,Financiamento,77731.0,Negado,Web,Salvador,Julia
+983,07/02/2025,14755285620,Emprestimo,9101.0,Aprovado,Agencia,Curitiba,Marcos
+984,2025-02-07,20328517335,Financiamento,10459.0,Aprovado,Agencia,Campinas,Ana
+985,10/02/2025,26355633704,Emprestimo,60081.0,Negado,Web,Sao Paulo,Lucas
+986,2025/02/28,51280572206,Financiamento,27906.0,Pendente,Agencia,Salvador,Julia
+987,05/01/2025,79389039014,Financiamento,,Negado,Agencia,Goiania,Marcos
+988,2025/01/14,22355466296,Emprestimo,82809.0,Pendente,Agencia,Curitiba,Marcos
+989,2025/01/20,27709104073,Financiamento,932.0,Negado,Agencia,Salvador,Lucas
+990,2025/01/23,66954162829,Cartao,7336.0,Aprovado,Agencia,Rio de Janeiro,Carlos
+991,01/02/2025,60198448493,Cartao,,Pendente,Agencia,Goiania,Fernanda
+992,2025/01/21,62235322834,Cartao,9426.0,Pendente,Agencia,Sao Paulo,Marcos
+993,21/02/2025,63874323515,Emprestimo,,Pendente,App,Fortaleza,Lucas
+994,2025-02-15,33110493659,Financiamento,,Aprovado,Web,Sao Paulo,Marcos
+995,2025-02-05,36660518345,Cartao,,Pendente,App,Curitiba,Marcos
+996,2025-02-16,26943115202,Cartao,27715.0,Negado,App,Belo Horizonte,Julia
+997,2025-02-22,66591946102,Financiamento,98347.0,Negado,Web,Curitiba,Ana
+998,2025-01-15,55550544474,Emprestimo,5155.0,Negado,App,Belo Horizonte,Ana
+999,30/01/2025,45421559119,Cartao,16423.0,Pendente,Agencia,Recife,Fernanda
+1000,23/02/2025,42737001151,Financiamento,109468.0,Aprovado,Web,Sao Paulo,Fernanda
+157,25/02/2025,48812123091,Cartao,870.0,Aprovado,Agencia,Sao Paulo,Fernanda
+986,2025/02/28,51280572206,Financiamento,27906.0,Pendente,Agencia,Salvador,Julia
+498,13/01/2025,28869938635,Emprestimo,19225.0,Pendente,Agencia,Goiania,Fernanda
+608,14/01/2025,76529899981,Financiamento,18374.0,Negado,Web,Porto Alegre,Ana
+717,17/01/2025,56359008259,Financiamento,104163.0,Pendente,Web,Rio de Janeiro,Fernanda
+477,2025-02-12,83446206392,Emprestimo,46477.0,Pendente,Web,Curitiba,Lucas
+804,2025-01-16,64074661025,Cartao,15074.0,Pendente,App,Rio de Janeiro,Carlos
+861,2025/02/08,87882937354,Financiamento,26272.0,Pendente,Agencia,Curitiba,Fernanda
+773,10/01/2025,32811776648,Financiamento,,Pendente,Agencia,Goiania,Lucas
+176,2025-02-09,92484522636,Financiamento,39941.0,Aprovado,Web,Goiania,Julia
+89,2025/02/16,92564626414,Cartao,94421.0,Aprovado,Agencia,Rio de Janeiro,Julia
+605,2025-01-29,68148287917,Financiamento,,Negado,App,Fortaleza,Fernanda
+852,2025-01-30,33935823997,Emprestimo,79718.0,Aprovado,Web,Curitiba,Carlos
+321,23/01/2025,12821561410,Emprestimo,22275.0,Aprovado,App,Campinas,Fernanda
+820,29/01/2025,25035482653,Emprestimo,,Pendente,Web,Belo Horizonte,Ana
+974,19/01/2025,28092000962,Financiamento,64304.0,Negado,Agencia,Fortaleza,Fernanda
+308,2025-02-19,88326560670,Cartao,75151.0,Pendente,Web,Salvador,Carlos
+847,2025-01-13,16414194238,Emprestimo,9290.0,Aprovado,Web,Goiania,Ana
+548,08/02/2025,67587456574,Financiamento,,Negado,Agencia,Recife,Carlos
+829,07/01/2025,87338874301,Emprestimo,60480.0,Pendente,App,Curitiba,Julia
