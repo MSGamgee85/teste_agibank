@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[Objetivo](#-objetivo) | [Descrição do problema](#-descrição-do-problema) | [Linguagem e IDE utilizados](#-linguagem-e-IDE-utilizados) | [Bibliotecas](#-bibliotecas) | [Construção da solução](#-construção-da-solução) | [Conclusões](#conclusões)
+[Objetivo](#-objetivo) | [Descrição do problema](#-descrição-do-problema) | [Linguagem e IDE utilizados](#-linguagem-e-IDE-utilizados) | [Bibliotecas](#-bibliotecas) | [Construção da solução](#-construção-da-solução) | [Conclusões](#-conclusões)
 
 </div>
 
@@ -60,8 +60,8 @@ Na sequência, as etapas subsequentes de solução são bem lineares e de acordo
 
 ---
 
-## Conclusões
+## ✅ Conclusões
 
-A partir da análise realizada foi possível extrapolar e apresentar sugestões de melhorias globais do processo como otimização da coleta de dados, além de insights relevantes e estratégicos no direcionamento de ações comerciais (abordagem de clientes com propostas reprovadas, ampliação da base via 
+A partir da análise realizada foi possível apresentar insights relevantes e estratégicos do mercado de crédito da instituição financeira, bem como propor melhorias globais de processos. Conseguimos ir além do objetivo inicial, pois através dos dados mostramos sugestões de **direcionamento de ações comerciais**, tais como: i) abordagem de clientes com potencial de negócios; ii) ampliação da base via ações de marketing digital e iii) fortalecimento dos canais de oferta dos produtos de crédito. Por fim, discutimos como utilizar LLMs e IAs em nosso dia-a-dia para automatizar e otimizar o trabalho do analista do dados.
 
 ---
