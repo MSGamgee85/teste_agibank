@@ -9,7 +9,7 @@
 
 **Palavras-chave**: `crédito`. `dados`. `operações b2c`.
 
-[Objetivo](#-objetivo) | [Descrição do problema](#-descrição-do-problema) | [Linguagem utilizada](#-linguagem-utilizada) | [Bibliotecas](#-bibliotecas) | [Comentários](#comentários)
+[Objetivo](#-objetivo) | [Descrição do problema](#-descrição-do-problema) | [Linguagem utilizada](#-linguagem-utilizada) | [Bibliotecas](#-bibliotecas) | [Construção da solução](#-construção-da-solução)
 
 ---
 
@@ -29,6 +29,6 @@
 
 ---
 
-## 🗨️ Comentários
+## 👷🏻 Construção da solução
 
 ---
