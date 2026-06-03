@@ -7,4 +7,28 @@
 
 </div>
 
+**Palavras-chave**: `crédito`. `dados`. `operações b2c`.
 
+Objetivo[#-objetivo] | Descrição do problema[#-descrição-do-problema] | Linguagem utilizada[#-linguagem-utilizada] | Bibliotecas [#-bibliotecas] | Comentários[#comentários]
+
+---
+
+## 🎯 Objetivo
+
+---
+
+## 📝 Descrição do problema
+
+---
+
+## 🐍 Linguagem utilizada
+
+---
+
+## 📚 Bibliotecas
+
+---
+
+## 🗨️ Comentários
+
+---
