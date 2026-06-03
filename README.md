@@ -1,2 +1,8 @@
-# teste_agibank
-Este repositório contém o teste para a vaga de Analista de Operações I do Agibank.
+<div align="center">
+
+# Operações B2C com foco em dados
+
+</div>
+
+---
+
