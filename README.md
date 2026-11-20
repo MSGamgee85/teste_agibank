@@ -37,7 +37,7 @@ A linguagem escolhida foi o **Python**, pois possuo mais familiaridade com os re
 
 ## 📚 Bibliotecas
 
-Basicamente usamos apenas o [Pandas](https://pandas.pydata.org/) para organização e manipulação de dados mas. para evitar erros de compilação, adicionamos o [NumPy](https://pandas.pydata.org/) para funções matemáticas e operações com arrays (vetores e matrizes) que são a base das estrtuturas tabulares do Pandas. O [Matplotlib](https://matplotlib.org/stable/) é um extra para esse projeto, mas é extremamente útil para visualizar tendências e padrões, fornecendo uma camada gráfica que ajuda na interpretação, comunicação e análise dos dados.
+Para este projeto usamos principalmente o [Pandas](https://pandas.pydata.org/) para organização e manipulação de dados mas, para evitar erros de compilação, adicionamos o [NumPy](https://pandas.pydata.org/) para funções matemáticas e operações com arrays (vetores e matrizes) que são a base das estruturas tabulares do Pandas. O [Matplotlib](https://matplotlib.org/stable/) é um extra para esse projeto, uma vez que é extremamente útil para visualizar tendências e padrões, fornecendo uma camada gráfica que ajuda na interpretação, comunicação e análise dos dados.
 
 ---
 
@@ -62,6 +62,10 @@ Na sequência, as etapas subsequentes de solução são bem lineares e de acordo
 
 ## ✅ Conclusões
 
-A partir da análise realizada foi possível apresentar insights relevantes e estratégicos do mercado de crédito da instituição financeira, bem como propor melhorias globais de processos. Conseguimos ir além do objetivo inicial, pois através dos dados mostramos sugestões de **direcionamento de ações comerciais**, tais como: i) abordagem de clientes com potencial de negócios; ii) ampliação da base via ações de marketing digital e iii) fortalecimento dos canais de oferta dos produtos de crédito. Por fim, discutimos como utilizar LLMs e IAs em nosso dia-a-dia para automatizar e otimizar o trabalho do analista de dados.
+A partir da análise realizada foi possível apresentar insights relevantes e estratégicos do mercado de crédito da instituição financeira, bem como propor melhorias globais de processos. Conseguimos ir além do objetivo inicial, pois através dos dados mostramos sugestões de **direcionamento de ações comerciais**, tais como: 
+
+i) abordagem de clientes com potencial de negócios; 
+ii) ampliação da base via ações de marketing digital e 
+iii) fortalecimento dos canais de oferta dos produtos de crédito. Por fim, discutimos como utilizar LLMs e IAs em nosso dia-a-dia para automatizar e otimizar o trabalho do analista de dados.
 
 ---
