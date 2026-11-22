@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://github.com/MSGamgee85/teste_agibank/blob/c04618889806580652e28ed19b27d2478d034850/logo_agibank.png)
+![header](https://github.com/MSGamgee85/teste_agibank/blob/cbc87ae60f1522c5b217d1cd7f20e16d8e1e2a7a/logo_banco_agi.png)
 
 ---
 
