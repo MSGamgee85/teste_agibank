@@ -2,6 +2,7 @@
 
 ![header](https://github.com/MSGamgee85/teste_agibank/blob/c04618889806580652e28ed19b27d2478d034850/logo_agibank.png)
 
+---
 
 # Operações B2C com foco em dados
 
